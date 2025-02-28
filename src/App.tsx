@@ -6,7 +6,7 @@ import channelsStore from './shared/store/ChannelsStore'
 import Container from './shared/ui/Container/Container'
 import { ChannelSelect } from './widgets/ChannelSelect/ChannelSelect'
 import BroadcastList from './widgets/BroadcastList/BroadcastList'
-import TabsComponent from './shared/ui/TabsComponent/TabsComponent'
+import TabsComponent from './widgets/TabsComponent/TabsComponent'
 
 const App = observer(() => {
   const [selectedDate, setSelectedDate] = useState<Date>(new Date())

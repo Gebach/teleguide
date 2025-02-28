@@ -1,7 +1,7 @@
 import { Tabs } from 'antd'
-import { TabsComponentProps } from '../../types/types'
+import { TabsComponentProps } from '../../shared/types/types'
 import { toJS } from 'mobx'
-import getUniqueDates from '../../../features/getUniqueDates'
+import getUniqueDates from '../../features/getUniqueDates'
 import { observer } from 'mobx-react-lite'
 
 const TabsComponent = observer(({ items, classname, onChangeAction }: TabsComponentProps) => {
