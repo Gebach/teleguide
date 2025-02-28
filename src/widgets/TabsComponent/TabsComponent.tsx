@@ -1,6 +1,6 @@
 import { Tabs } from 'antd'
-import { TabsComponentProps } from '../../shared/types/types'
 import { toJS } from 'mobx'
+import { TabsComponentProps } from '../../shared/types/types'
 import getUniqueDates from '../../features/getUniqueDates'
 import { observer } from 'mobx-react-lite'
 
@@ -12,7 +12,6 @@ const TabsComponent = observer(({ items, classname, onChangeAction }: TabsCompon
   }))
 
   function onChange(key: string) {
-    console.log(key)
     onChangeAction(new Date(Number(key.split('.')[2]), Number(key.split('.')[1]) - 1, Number(key.split('.')[0])))
   }
 

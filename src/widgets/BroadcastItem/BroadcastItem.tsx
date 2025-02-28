@@ -6,21 +6,21 @@ import { observer } from 'mobx-react-lite'
 interface BroadcastItemProps {
   item: IBroadcast
   isLive?: boolean
-  selectedDate?: Date
+  date: Date
   classname?: string
 }
 
-export const BroadcastItem = observer(({ item, isLive, selectedDate = new Date(), classname }: BroadcastItemProps) => {
+export const BroadcastItem = observer(({ item, isLive, date = new Date(), classname }: BroadcastItemProps) => {
   const { channels, getSelectedChannelSlug } = channelsStore
   const [isNotAllowed, setIsNotAllowed] = useState<boolean>(true)
   const rightItemData = new Date(item.schedules.timestamp * 1000)
 
   useEffect(() => {
     setIsNotAllowed(rightItemData > dateNow && !isLive)
-  }, [selectedDate])
+  }, [date])
 
   // const currentDate = selectedDate
-  const currentDate = new Date()
+  const currentDate = date
   const dateNow = new Date()
   const itemDate = rightItemData
 
