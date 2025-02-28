@@ -1,0 +1,3856 @@
+{
+  "error_code": 0,
+  "desp": "",
+  "data": [
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740380400",
+        "channel": 4,
+        "timestamp": 1740380400,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1696703,
+      "title": "Лица страны",
+      "content": {
+        "id": 1696703,
+        "title": "Лица страны",
+        "short": "В эфире канала - очень важные персоны. Не пропустите!",
+        "age": 12,
+        "genres": [],
+        "category": "Д/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740380700",
+        "channel": 4,
+        "timestamp": 1740380700,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1961772,
+      "title": "Еврофутбол. Обзор",
+      "content": {
+        "id": 1961772,
+        "title": "Еврофутбол. Обзор",
+        "short": "Всё о футболе - новости футбольных чемпионатов, результаты и аналитика",
+        "age": 6,
+        "genres": [],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740381900",
+        "channel": 4,
+        "timestamp": 1740381900,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3020429,
+      "title": "Смешанные единоборства. ACA. Ислам Омаров против Курбана Тайгибова. Трансляция из Краснодара",
+      "content": {
+        "id": 3020429,
+        "title": "Смешанные единоборства. ACA. Ислам Омаров против Курбана Тайгибова. Трансляция из Краснодара",
+        "short": "",
+        "age": 16,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740385800",
+        "channel": 4,
+        "timestamp": 1740385800,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1620088,
+      "title": "Время Чемпионов",
+      "content": {
+        "id": 1620088,
+        "title": "Время Чемпионов",
+        "short": "Мы отправимся в эпицентр крупнейших спортивных событий, чтобы показать вам, как рождаются легенды",
+        "age": 12,
+        "genres": [1234],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740389700",
+        "channel": 4,
+        "timestamp": 1740389700,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740390900",
+        "channel": 4,
+        "timestamp": 1740390900,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1860922,
+      "title": "Есть тема!",
+      "content": {
+        "id": 1860922,
+        "title": "Есть тема!",
+        "short": "Резонансные события, злободневные темы, разные мнения и жаркие дискуссии",
+        "age": null,
+        "genres": [1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740391200",
+        "channel": 4,
+        "timestamp": 1740391200,
+        "duration": 5100
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3086765,
+      "title": "Фрирайд. Мировой тур. Трансляция из Франции",
+      "content": {
+        "id": 3086765,
+        "title": "Фрирайд. Мировой тур. Трансляция из Франции",
+        "short": "",
+        "age": 6,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740396300",
+        "channel": 4,
+        "timestamp": 1740396300,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2740256,
+      "title": "Тайны звезд спорта",
+      "content": {
+        "id": 2740256,
+        "title": "Тайны звезд спорта",
+        "short": "Программа раскрывает тайны звёзд спорта. Не переключайтесь и узнайте больше о известных спортсменах!",
+        "age": 12,
+        "genres": [1234, 979],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740398100",
+        "channel": 4,
+        "timestamp": 1740398100,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740399900",
+        "channel": 4,
+        "timestamp": 1740399900,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2248942,
+      "title": "Громко",
+      "content": {
+        "id": 2248942,
+        "title": "Громко",
+        "short": "События, о которых спорят. Матчи, которые не забудут. Эмоции, которые ещё не утихли",
+        "age": null,
+        "genres": [1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740400200",
+        "channel": 4,
+        "timestamp": 1740400200,
+        "duration": 4500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094019,
+      "title": "Хоккей. Фонбет Чемпионат КХЛ. \"Металлург\" (Магнитогорск) - \"Северсталь\" (Череповец)",
+      "content": {
+        "id": 3094019,
+        "title": "Хоккей. Фонбет Чемпионат КХЛ. \"Металлург\" (Магнитогорск) - \"Северсталь\" (Череповец)",
+        "short": "Домашняя игра против \"Северстали\" может стать для \"Металлурга\" генеральной репетицией будущих баталий плей-офф",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740404700",
+        "channel": 4,
+        "timestamp": 1740404700,
+        "duration": 9600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2282654,
+      "title": "Лионель Месси: Величайший",
+      "content": {
+        "id": 2282654,
+        "title": "Лионель Месси: Величайший",
+        "short": "Документальный фильм представляет взгляд на карьеру одного из величайших футболистов современности - Лионеля Месси",
+        "age": 12,
+        "genres": [1234, 339],
+        "category": "Д/ф",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740414300",
+        "channel": 4,
+        "timestamp": 1740414300,
+        "duration": 4200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1961772,
+      "title": "Еврофутбол. Обзор",
+      "content": {
+        "id": 1961772,
+        "title": "Еврофутбол. Обзор",
+        "short": "Всё о футболе - новости футбольных чемпионатов, результаты и аналитика",
+        "age": 6,
+        "genres": [56, 1234],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740418500",
+        "channel": 4,
+        "timestamp": 1740418500,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740422400",
+        "channel": 4,
+        "timestamp": 1740422400,
+        "duration": 3300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094021,
+      "title": "Футбол. Чемпионат Италии. \"Рома\" - \"Монца\"",
+      "content": {
+        "id": 3094021,
+        "title": "Футбол. Чемпионат Италии. \"Рома\" - \"Монца\"",
+        "short": "\"Рома\" в рамках заключительного матча очередного тура чемпионата Италии ждёт в гости \"Монцу\"",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740425700",
+        "channel": 4,
+        "timestamp": 1740425700,
+        "duration": 7800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740433500",
+        "channel": 4,
+        "timestamp": 1740433500,
+        "duration": 3000
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2759810,
+      "title": "Коби Брайант: Черная мамба",
+      "content": {
+        "id": 2759810,
+        "title": "Коби Брайант: Черная мамба",
+        "short": "Документальный фильм о легендарном баскетболисте и одном уникальном матче, который вошёл в историю большого спорта",
+        "age": 12,
+        "genres": [1234, 939, 979, 929, 934],
+        "category": "Д/ф",
+        "rating": 7.05,
+        "rating_imdb": 6.5,
+        "rating_kinopoisk": 7.6
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740436500",
+        "channel": 4,
+        "timestamp": 1740436500,
+        "duration": 5400
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2795347,
+      "title": "Что за спорт?",
+      "content": {
+        "id": 2795347,
+        "title": "Что за спорт?",
+        "short": "В программе - всё самое интересное из мира спорта и не только",
+        "age": 12,
+        "genres": [1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740441900",
+        "channel": 4,
+        "timestamp": 1740441900,
+        "duration": 3300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740445200",
+        "channel": 4,
+        "timestamp": 1740445200,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1088071,
+      "title": "Футбол. Чемпионат Германии. \"Бавария\"-\"Айнтрахт\" (Франкфурт)",
+      "content": {
+        "id": 1088071,
+        "title": "Футбол. Чемпионат Германии. \"Бавария\"-\"Айнтрахт\" (Франкфурт)",
+        "short": "",
+        "age": 6,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740445500",
+        "channel": 4,
+        "timestamp": 1740445500,
+        "duration": 6900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2740256,
+      "title": "Тайны звезд спорта",
+      "content": {
+        "id": 2740256,
+        "title": "Тайны звезд спорта",
+        "short": "Программа раскрывает тайны звёзд спорта. Не переключайтесь и узнайте больше о известных спортсменах!",
+        "age": 12,
+        "genres": [1234, 979],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740452400",
+        "channel": 4,
+        "timestamp": 1740452400,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3086765,
+      "title": "Фрирайд. Мировой тур. Трансляция из Франции",
+      "content": {
+        "id": 3086765,
+        "title": "Фрирайд. Мировой тур. Трансляция из Франции",
+        "short": "",
+        "age": 6,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740454200",
+        "channel": 4,
+        "timestamp": 1740454200,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740456000",
+        "channel": 4,
+        "timestamp": 1740456000,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740456300",
+        "channel": 4,
+        "timestamp": 1740456300,
+        "duration": 10500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740466800",
+        "channel": 4,
+        "timestamp": 1740466800,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1620088,
+      "title": "Время Чемпионов",
+      "content": {
+        "id": 1620088,
+        "title": "Время Чемпионов",
+        "short": "Мы отправимся в эпицентр крупнейших спортивных событий, чтобы показать вам, как рождаются легенды",
+        "age": 12,
+        "genres": [1234],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740467100",
+        "channel": 4,
+        "timestamp": 1740467100,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2683390,
+      "title": "Лучшие из лучших",
+      "content": {
+        "id": 2683390,
+        "title": "Лучшие из лучших",
+        "short": "Мы представляем обзор самых ярких спортивных достижений последних лет. Не пропустите!",
+        "age": 12,
+        "genres": [1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740468300",
+        "channel": 4,
+        "timestamp": 1740468300,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3090058,
+      "title": "Смешанные единоборства. UFC. Генри Сехудо против Сонга Ядонга. Трансляция из США",
+      "content": {
+        "id": 3090058,
+        "title": "Смешанные единоборства. UFC. Генри Сехудо против Сонга Ядонга. Трансляция из США",
+        "short": "",
+        "age": 16,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740472200",
+        "channel": 4,
+        "timestamp": 1740472200,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1214934,
+      "title": "Специальный репортаж",
+      "content": {
+        "id": 1214934,
+        "title": "Специальный репортаж",
+        "short": "Программа посвящена самым громким событиям. Темы, которые получили наибольший интерес общества и бурную реакцию",
+        "age": 12,
+        "genres": [1234, 939],
+        "category": "Познавательное",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740476100",
+        "channel": 4,
+        "timestamp": 1740476100,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740477300",
+        "channel": 4,
+        "timestamp": 1740477300,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1860922,
+      "title": "Есть тема!",
+      "content": {
+        "id": 1860922,
+        "title": "Есть тема!",
+        "short": "Резонансные события, злободневные темы, разные мнения и жаркие дискуссии",
+        "age": null,
+        "genres": [1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740477600",
+        "channel": 4,
+        "timestamp": 1740477600,
+        "duration": 5100
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2563736,
+      "title": "География спорта",
+      "content": {
+        "id": 2563736,
+        "title": "География спорта",
+        "short": "Корреспонденты телеканала путешествуют по России, чтобы показать, как и чем живут спортсмены в разных уголках нашей огромной страны",
+        "age": 12,
+        "genres": [1234, 979, 929],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740482700",
+        "channel": 4,
+        "timestamp": 1740482700,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2740256,
+      "title": "Тайны звезд спорта",
+      "content": {
+        "id": 2740256,
+        "title": "Тайны звезд спорта",
+        "short": "Программа раскрывает тайны звёзд спорта. Не переключайтесь и узнайте больше о известных спортсменах!",
+        "age": 12,
+        "genres": [1234, 979],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740484500",
+        "channel": 4,
+        "timestamp": 1740484500,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740486300",
+        "channel": 4,
+        "timestamp": 1740486300,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740486600",
+        "channel": 4,
+        "timestamp": 1740486600,
+        "duration": 3300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2950673,
+      "title": "Величайший",
+      "content": {
+        "id": 2950673,
+        "title": "Величайший",
+        "short": "В документальном фильме мы раскрываем историю человека, который изменил правила игры и стал легендой своего времени",
+        "age": 16,
+        "genres": [1234, 979],
+        "category": "Д/ф",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740489900",
+        "channel": 4,
+        "timestamp": 1740489900,
+        "duration": 4800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2877020,
+      "title": "Смешанные единоборства. \"Наше дело\"",
+      "content": {
+        "id": 2877020,
+        "title": "Смешанные единоборства. \"Наше дело\"",
+        "short": "",
+        "age": 16,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740494700",
+        "channel": 4,
+        "timestamp": 1740494700,
+        "duration": 3600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094016,
+      "title": "Хоккей. Фонбет Чемпионат КХЛ. \"Торпедо\" (Нижний Новгород) - ЦСКА",
+      "content": {
+        "id": 3094016,
+        "title": "Хоккей. Фонбет Чемпионат КХЛ. \"Торпедо\" (Нижний Новгород) - ЦСКА",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740498300",
+        "channel": 4,
+        "timestamp": 1740498300,
+        "duration": 9900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740508200",
+        "channel": 4,
+        "timestamp": 1740508200,
+        "duration": 5400
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094008,
+      "title": "Футбол. Кубок Испании. 1/2 финала. \"Барселона\" - \"Атлетико\"",
+      "content": {
+        "id": 3094008,
+        "title": "Футбол. Кубок Испании. 1/2 финала. \"Барселона\" - \"Атлетико\"",
+        "short": "Открывает полуфинальные противостояния на кубок Испании встреча между \"Барселоной\" и \"Атлетико\"",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740513600",
+        "channel": 4,
+        "timestamp": 1740513600,
+        "duration": 9000
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740522600",
+        "channel": 4,
+        "timestamp": 1740522600,
+        "duration": 2100
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3034913,
+      "title": "Сёстры Уильямс",
+      "content": {
+        "id": 3034913,
+        "title": "Сёстры Уильямс",
+        "short": "Документальный фильм рассказывает о двух великих теннисистках - Винус и Серене Уильямс, чьи имена навсегда вписаны в историю мирового спорта",
+        "age": 16,
+        "genres": [1234, 979],
+        "category": "Д/ф",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740524700",
+        "channel": 4,
+        "timestamp": 1740524700,
+        "duration": 3600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2795347,
+      "title": "Что за спорт?",
+      "content": {
+        "id": 2795347,
+        "title": "Что за спорт?",
+        "short": "В программе - всё самое интересное из мира спорта и не только",
+        "age": 12,
+        "genres": [1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740528300",
+        "channel": 4,
+        "timestamp": 1740528300,
+        "duration": 3300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740531600",
+        "channel": 4,
+        "timestamp": 1740531600,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3090034,
+      "title": "Биатлон. Альфа-Банк Кубок сильнейших спортсменов. Смешанная эстафета. Трансляция из Белоруссии",
+      "content": {
+        "id": 3090034,
+        "title": "Биатлон. Альфа-Банк Кубок сильнейших спортсменов. Смешанная эстафета. Трансляция из Белоруссии",
+        "short": "",
+        "age": 6,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740531900",
+        "channel": 4,
+        "timestamp": 1740531900,
+        "duration": 6900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2740256,
+      "title": "Тайны звезд спорта",
+      "content": {
+        "id": 2740256,
+        "title": "Тайны звезд спорта",
+        "short": "Программа раскрывает тайны звёзд спорта. Не переключайтесь и узнайте больше о известных спортсменах!",
+        "age": 12,
+        "genres": [1234, 979],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740538800",
+        "channel": 4,
+        "timestamp": 1740538800,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2563736,
+      "title": "География спорта",
+      "content": {
+        "id": 2563736,
+        "title": "География спорта",
+        "short": "Корреспонденты телеканала путешествуют по России, чтобы показать, как и чем живут спортсмены в разных уголках нашей огромной страны",
+        "age": 12,
+        "genres": [1234, 979, 929],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740540600",
+        "channel": 4,
+        "timestamp": 1740540600,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740542400",
+        "channel": 4,
+        "timestamp": 1740542400,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740542700",
+        "channel": 4,
+        "timestamp": 1740542700,
+        "duration": 10500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740553200",
+        "channel": 4,
+        "timestamp": 1740553200,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1214934,
+      "title": "Специальный репортаж",
+      "content": {
+        "id": 1214934,
+        "title": "Специальный репортаж",
+        "short": "Программа посвящена самым громким событиям. Темы, которые получили наибольший интерес общества и бурную реакцию",
+        "age": 12,
+        "genres": [1234, 939],
+        "category": "Познавательное",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740553500",
+        "channel": 4,
+        "timestamp": 1740553500,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2683390,
+      "title": "Лучшие из лучших",
+      "content": {
+        "id": 2683390,
+        "title": "Лучшие из лучших",
+        "short": "Мы представляем обзор самых ярких спортивных достижений последних лет. Не пропустите!",
+        "age": 12,
+        "genres": [1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740554700",
+        "channel": 4,
+        "timestamp": 1740554700,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094009,
+      "title": "Бокс. Bare Knuckle FC. Кит Ричардсон против Майкла Ларримора. Трансляция из США",
+      "content": {
+        "id": 3094009,
+        "title": "Бокс. Bare Knuckle FC. Кит Ричардсон против Майкла Ларримора. Трансляция из США",
+        "short": "",
+        "age": 16,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740558600",
+        "channel": 4,
+        "timestamp": 1740558600,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1214934,
+      "title": "Специальный репортаж",
+      "content": {
+        "id": 1214934,
+        "title": "Специальный репортаж",
+        "short": "Программа посвящена самым громким событиям. Темы, которые получили наибольший интерес общества и бурную реакцию",
+        "age": 12,
+        "genres": [1234, 939],
+        "category": "Познавательное",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740562500",
+        "channel": 4,
+        "timestamp": 1740562500,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740563700",
+        "channel": 4,
+        "timestamp": 1740563700,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1860922,
+      "title": "Есть тема!",
+      "content": {
+        "id": 1860922,
+        "title": "Есть тема!",
+        "short": "Резонансные события, злободневные темы, разные мнения и жаркие дискуссии",
+        "age": null,
+        "genres": [1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740564000",
+        "channel": 4,
+        "timestamp": 1740564000,
+        "duration": 5100
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 172439,
+      "title": "Вид сверху",
+      "content": {
+        "id": 172439,
+        "title": "Вид сверху",
+        "short": "Баскетбольный тележурнал с акцентом на чемпионат Единой Лиги ВТБ и новости с паркета",
+        "age": 12,
+        "genres": [1234, 979],
+        "category": "ТВ-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740569100",
+        "channel": 4,
+        "timestamp": 1740569100,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2740256,
+      "title": "Тайны звезд спорта",
+      "content": {
+        "id": 2740256,
+        "title": "Тайны звезд спорта",
+        "short": "Программа раскрывает тайны звёзд спорта. Не переключайтесь и узнайте больше о известных спортсменах!",
+        "age": 12,
+        "genres": [1234, 979],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740570900",
+        "channel": 4,
+        "timestamp": 1740570900,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740572700",
+        "channel": 4,
+        "timestamp": 1740572700,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740573000",
+        "channel": 4,
+        "timestamp": 1740573000,
+        "duration": 3300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2603959,
+      "title": "Магия большого спорта",
+      "content": {
+        "id": 2603959,
+        "title": "Магия большого спорта",
+        "short": "Программа о \"ритуалах\" и талисманах, которые помогают спортсменам достигать своих целей",
+        "age": 12,
+        "genres": [1234, 979],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740576300",
+        "channel": 4,
+        "timestamp": 1740576300,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094013,
+      "title": "Хоккей. Фонбет Чемпионат КХЛ. \"Автомобилист\" (Екатеринбург) - \"Ак Барс\" (Казань)",
+      "content": {
+        "id": 3094013,
+        "title": "Хоккей. Фонбет Чемпионат КХЛ. \"Автомобилист\" (Екатеринбург) - \"Ак Барс\" (Казань)",
+        "short": "Сомнений в том, что \"Автомобилист\" и \"Ак Барс\" уверенно попадут в плей-офф КХЛ и поборются за Кубок Гагарина, нет ни у кого",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740578100",
+        "channel": 4,
+        "timestamp": 1740578100,
+        "duration": 9000
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2819322,
+      "title": "Волейбол. Чемпионат России. Pari Суперлига. Мужчины. \"Зенит-Казань\" - \"Динамо-ЛО\" (Ленинградская область)",
+      "content": {
+        "id": 2819322,
+        "title": "Волейбол. Чемпионат России. Pari Суперлига. Мужчины. \"Зенит-Казань\" - \"Динамо-ЛО\" (Ленинградская область)",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740587100",
+        "channel": 4,
+        "timestamp": 1740587100,
+        "duration": 7500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740594600",
+        "channel": 4,
+        "timestamp": 1740594600,
+        "duration": 5400
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094011,
+      "title": "Футбол. Кубок Испании. 1/2 финала. \"Реал Сосьедад\" - \"Реал\" (Мадрид)",
+      "content": {
+        "id": 3094011,
+        "title": "Футбол. Кубок Испании. 1/2 финала. \"Реал Сосьедад\" - \"Реал\" (Мадрид)",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740600000",
+        "channel": 4,
+        "timestamp": 1740600000,
+        "duration": 9000
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740609000",
+        "channel": 4,
+        "timestamp": 1740609000,
+        "duration": 2100
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2916248,
+      "title": "Тайсон Фьюри: Искупление",
+      "content": {
+        "id": 2916248,
+        "title": "Тайсон Фьюри: Искупление",
+        "short": "Документальный фильм о жизни и карьере известного боксёра Тайсона Фьюри",
+        "age": 16,
+        "genres": [1234, 339],
+        "category": "Д/ф",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740611100",
+        "channel": 4,
+        "timestamp": 1740611100,
+        "duration": 3600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2795347,
+      "title": "Что за спорт?",
+      "content": {
+        "id": 2795347,
+        "title": "Что за спорт?",
+        "short": "В программе - всё самое интересное из мира спорта и не только",
+        "age": 12,
+        "genres": [1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740614700",
+        "channel": 4,
+        "timestamp": 1740614700,
+        "duration": 3300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740618000",
+        "channel": 4,
+        "timestamp": 1740618000,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3090039,
+      "title": "Биатлон. Альфа-Банк Кубок сильнейших спортсменов. Масс-старт. Женщины. Трансляция из Белоруссии",
+      "content": {
+        "id": 3090039,
+        "title": "Биатлон. Альфа-Банк Кубок сильнейших спортсменов. Масс-старт. Женщины. Трансляция из Белоруссии",
+        "short": "",
+        "age": 6,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740618300",
+        "channel": 4,
+        "timestamp": 1740618300,
+        "duration": 3300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3090040,
+      "title": "Биатлон. Альфа-Банк Кубок сильнейших спортсменов. Масс-старт. Мужчины. Трансляция из Белоруссии",
+      "content": {
+        "id": 3090040,
+        "title": "Биатлон. Альфа-Банк Кубок сильнейших спортсменов. Масс-старт. Мужчины. Трансляция из Белоруссии",
+        "short": "",
+        "age": 6,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740621600",
+        "channel": 4,
+        "timestamp": 1740621600,
+        "duration": 3600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2740256,
+      "title": "Тайны звезд спорта",
+      "content": {
+        "id": 2740256,
+        "title": "Тайны звезд спорта",
+        "short": "Программа раскрывает тайны звёзд спорта. Не переключайтесь и узнайте больше о известных спортсменах!",
+        "age": 12,
+        "genres": [1234, 979],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740625200",
+        "channel": 4,
+        "timestamp": 1740625200,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 172439,
+      "title": "Вид сверху",
+      "content": {
+        "id": 172439,
+        "title": "Вид сверху",
+        "short": "Баскетбольный тележурнал с акцентом на чемпионат Единой Лиги ВТБ и новости с паркета",
+        "age": 12,
+        "genres": [1234, 979],
+        "category": "ТВ-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740627000",
+        "channel": 4,
+        "timestamp": 1740627000,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740628800",
+        "channel": 4,
+        "timestamp": 1740628800,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740629100",
+        "channel": 4,
+        "timestamp": 1740629100,
+        "duration": 10500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740639600",
+        "channel": 4,
+        "timestamp": 1740639600,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1214934,
+      "title": "Специальный репортаж",
+      "content": {
+        "id": 1214934,
+        "title": "Специальный репортаж",
+        "short": "Программа посвящена самым громким событиям. Темы, которые получили наибольший интерес общества и бурную реакцию",
+        "age": 12,
+        "genres": [1234, 939],
+        "category": "Познавательное",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740639900",
+        "channel": 4,
+        "timestamp": 1740639900,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2683390,
+      "title": "Лучшие из лучших",
+      "content": {
+        "id": 2683390,
+        "title": "Лучшие из лучших",
+        "short": "Мы представляем обзор самых ярких спортивных достижений последних лет. Не пропустите!",
+        "age": 12,
+        "genres": [1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740641100",
+        "channel": 4,
+        "timestamp": 1740641100,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2208102,
+      "title": "Футбол. Еврокубки. Обзор",
+      "content": {
+        "id": 2208102,
+        "title": "Футбол. Еврокубки. Обзор",
+        "short": "Вашему вниманию - обзор матчей Еврокубка",
+        "age": 6,
+        "genres": [56, 1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740645000",
+        "channel": 4,
+        "timestamp": 1740645000,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1214934,
+      "title": "Специальный репортаж",
+      "content": {
+        "id": 1214934,
+        "title": "Специальный репортаж",
+        "short": "Программа посвящена самым громким событиям. Темы, которые получили наибольший интерес общества и бурную реакцию",
+        "age": 12,
+        "genres": [1234, 939],
+        "category": "Познавательное",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740648900",
+        "channel": 4,
+        "timestamp": 1740648900,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740650100",
+        "channel": 4,
+        "timestamp": 1740650100,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1860922,
+      "title": "Есть тема!",
+      "content": {
+        "id": 1860922,
+        "title": "Есть тема!",
+        "short": "Резонансные события, злободневные темы, разные мнения и жаркие дискуссии",
+        "age": null,
+        "genres": [1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740650400",
+        "channel": 4,
+        "timestamp": 1740650400,
+        "duration": 5100
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1171515,
+      "title": "Большой хоккей",
+      "content": {
+        "id": 1171515,
+        "title": "Большой хоккей",
+        "short": "Всё о хоккее - новости хоккейных чемпионатов России и мира, а также результаты и аналитика",
+        "age": 12,
+        "genres": [42],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740655500",
+        "channel": 4,
+        "timestamp": 1740655500,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2740256,
+      "title": "Тайны звезд спорта",
+      "content": {
+        "id": 2740256,
+        "title": "Тайны звезд спорта",
+        "short": "Программа раскрывает тайны звёзд спорта. Не переключайтесь и узнайте больше о известных спортсменах!",
+        "age": 12,
+        "genres": [1234, 979],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740657300",
+        "channel": 4,
+        "timestamp": 1740657300,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740659100",
+        "channel": 4,
+        "timestamp": 1740659100,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740659400",
+        "channel": 4,
+        "timestamp": 1740659400,
+        "duration": 3300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2893093,
+      "title": "Фрирайд. Мировой тур. Трансляция из Канады",
+      "content": {
+        "id": 2893093,
+        "title": "Фрирайд. Мировой тур. Трансляция из Канады",
+        "short": "",
+        "age": 6,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740662700",
+        "channel": 4,
+        "timestamp": 1740662700,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094014,
+      "title": "Футзал. Бетсити Суперлига. \"Синара\" (Екатеринбург) - \"Тюмень\"",
+      "content": {
+        "id": 3094014,
+        "title": "Футзал. Бетсити Суперлига. \"Синара\" (Екатеринбург) - \"Тюмень\"",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740664500",
+        "channel": 4,
+        "timestamp": 1740664500,
+        "duration": 6600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740671100",
+        "channel": 4,
+        "timestamp": 1740671100,
+        "duration": 2400
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2613123,
+      "title": "Волейбол. Чемпионат России. Pari Суперлига. Мужчины. \"Зенит\" (Санкт-Петербург) - \"Динамо\" (Москва)",
+      "content": {
+        "id": 2613123,
+        "title": "Волейбол. Чемпионат России. Pari Суперлига. Мужчины. \"Зенит\" (Санкт-Петербург) - \"Динамо\" (Москва)",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740673500",
+        "channel": 4,
+        "timestamp": 1740673500,
+        "duration": 7500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740681000",
+        "channel": 4,
+        "timestamp": 1740681000,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1497306,
+      "title": "Футбол. Чемпионат Италии. \"Болонья\" -\"Милан\"",
+      "content": {
+        "id": 1497306,
+        "title": "Футбол. Чемпионат Италии. \"Болонья\" -\"Милан\"",
+        "short": "Чемпионат Италии в самом разгаре, и календарь \"Серии А\" приготовил всем любителям футбола интереснейший матч",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740684900",
+        "channel": 4,
+        "timestamp": 1740684900,
+        "duration": 7800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1419005,
+      "title": "Евротур",
+      "content": {
+        "id": 1419005,
+        "title": "Евротур",
+        "short": "Обзорная программа с новостями европейского футбола",
+        "age": 12,
+        "genres": [56, 1234],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740692700",
+        "channel": 4,
+        "timestamp": 1740692700,
+        "duration": 3000
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2868407,
+      "title": "Формула-1. Гаснут огни",
+      "content": {
+        "id": 2868407,
+        "title": "Формула-1. Гаснут огни",
+        "short": "Увлекательная программа, посвящённая Формуле-1. Не переключайтесь!",
+        "age": 12,
+        "genres": [1234, 979],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740695700",
+        "channel": 4,
+        "timestamp": 1740695700,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2916250,
+      "title": "Флойд Мейвезер",
+      "content": {
+        "id": 2916250,
+        "title": "Флойд Мейвезер",
+        "short": "Документальный фильм рассказывает о Флойде Мейвезере",
+        "age": 16,
+        "genres": [1234, 339],
+        "category": "Д/ф",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740697500",
+        "channel": 4,
+        "timestamp": 1740697500,
+        "duration": 3600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2795347,
+      "title": "Что за спорт?",
+      "content": {
+        "id": 2795347,
+        "title": "Что за спорт?",
+        "short": "В программе - всё самое интересное из мира спорта и не только",
+        "age": 12,
+        "genres": [1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740701100",
+        "channel": 4,
+        "timestamp": 1740701100,
+        "duration": 3300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740704400",
+        "channel": 4,
+        "timestamp": 1740704400,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3090035,
+      "title": "Лыжные гонки. Гонка Легкова. Трансляция из Рязани",
+      "content": {
+        "id": 3090035,
+        "title": "Лыжные гонки. Гонка Легкова. Трансляция из Рязани",
+        "short": "",
+        "age": 6,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740704700",
+        "channel": 4,
+        "timestamp": 1740704700,
+        "duration": 6900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2740256,
+      "title": "Тайны звезд спорта",
+      "content": {
+        "id": 2740256,
+        "title": "Тайны звезд спорта",
+        "short": "Программа раскрывает тайны звёзд спорта. Не переключайтесь и узнайте больше о известных спортсменах!",
+        "age": 12,
+        "genres": [1234, 979],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740711600",
+        "channel": 4,
+        "timestamp": 1740711600,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1171515,
+      "title": "Большой хоккей",
+      "content": {
+        "id": 1171515,
+        "title": "Большой хоккей",
+        "short": "Всё о хоккее - новости хоккейных чемпионатов России и мира, а также результаты и аналитика",
+        "age": 12,
+        "genres": [42],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740713400",
+        "channel": 4,
+        "timestamp": 1740713400,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740715200",
+        "channel": 4,
+        "timestamp": 1740715200,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740715500",
+        "channel": 4,
+        "timestamp": 1740715500,
+        "duration": 10500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740726000",
+        "channel": 4,
+        "timestamp": 1740726000,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2678718,
+      "title": "Небесная грация",
+      "content": {
+        "id": 2678718,
+        "title": "Небесная грация",
+        "short": "Репортаж об экспериментальном международном турнире по художественной гимнастике \"Небесная грация\"",
+        "age": 6,
+        "genres": [1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740726300",
+        "channel": 4,
+        "timestamp": 1740726300,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2683390,
+      "title": "Лучшие из лучших",
+      "content": {
+        "id": 2683390,
+        "title": "Лучшие из лучших",
+        "short": "Мы представляем обзор самых ярких спортивных достижений последних лет. Не пропустите!",
+        "age": 12,
+        "genres": [1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740727500",
+        "channel": 4,
+        "timestamp": 1740727500,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2918737,
+      "title": "Смешанные единоборства. АСА. Олег Борисов против Павла Витрука. Трансляция из Санкт-Петербурга",
+      "content": {
+        "id": 2918737,
+        "title": "Смешанные единоборства. АСА. Олег Борисов против Павла Витрука. Трансляция из Санкт-Петербурга",
+        "short": "",
+        "age": 16,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740731400",
+        "channel": 4,
+        "timestamp": 1740731400,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1696703,
+      "title": "Лица страны",
+      "content": {
+        "id": 1696703,
+        "title": "Лица страны",
+        "short": "В эфире канала - очень важные персоны. Не пропустите!",
+        "age": 12,
+        "genres": [1234, 339],
+        "category": "Д/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740735300",
+        "channel": 4,
+        "timestamp": 1740735300,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740736500",
+        "channel": 4,
+        "timestamp": 1740736500,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1860922,
+      "title": "Есть тема!",
+      "content": {
+        "id": 1860922,
+        "title": "Есть тема!",
+        "short": "Резонансные события, злободневные темы, разные мнения и жаркие дискуссии",
+        "age": null,
+        "genres": [1234],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740736800",
+        "channel": 4,
+        "timestamp": 1740736800,
+        "duration": 5700
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1419005,
+      "title": "Евротур",
+      "content": {
+        "id": 1419005,
+        "title": "Евротур",
+        "short": "Обзорная программа с новостями европейского футбола",
+        "age": 12,
+        "genres": [56, 1234],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740742500",
+        "channel": 4,
+        "timestamp": 1740742500,
+        "duration": 3000
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740745500",
+        "channel": 4,
+        "timestamp": 1740745500,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1858781,
+      "title": "Смешанные единоборства. One FC. Трансляция из Таиланда",
+      "content": {
+        "id": 1858781,
+        "title": "Смешанные единоборства. One FC. Трансляция из Таиланда",
+        "short": "",
+        "age": 16,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740745800",
+        "channel": 4,
+        "timestamp": 1740745800,
+        "duration": 14400
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094024,
+      "title": "Смешанные единоборства. Наше дело. Трансляция из Казани",
+      "content": {
+        "id": 3094024,
+        "title": "Смешанные единоборства. Наше дело. Трансляция из Казани",
+        "short": "",
+        "age": 16,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740760200",
+        "channel": 4,
+        "timestamp": 1740760200,
+        "duration": 9000
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3096298,
+      "title": "Смешанные единоборства. АСА. Павел Витрук против Мехди Байдулаева. Трансляция из Москвы",
+      "content": {
+        "id": 3096298,
+        "title": "Смешанные единоборства. АСА. Павел Витрук против Мехди Байдулаева. Трансляция из Москвы",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740769200",
+        "channel": 4,
+        "timestamp": 1740769200,
+        "duration": 6300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740775500",
+        "channel": 4,
+        "timestamp": 1740775500,
+        "duration": 6600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2893093,
+      "title": "Фрирайд. Мировой тур. Трансляция из Канады",
+      "content": {
+        "id": 2893093,
+        "title": "Фрирайд. Мировой тур. Трансляция из Канады",
+        "short": "",
+        "age": 6,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740782100",
+        "channel": 4,
+        "timestamp": 1740782100,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2916234,
+      "title": "Леброн Джеймс: Король площадки",
+      "content": {
+        "id": 2916234,
+        "title": "Леброн Джеймс: Король площадки",
+        "short": "Взгляд на легендарную карьеру одного из величайших игроков в истории баскетбола",
+        "age": 12,
+        "genres": [1234, 339],
+        "category": "Д/ф",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740783900",
+        "channel": 4,
+        "timestamp": 1740783900,
+        "duration": 6900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740790800",
+        "channel": 4,
+        "timestamp": 1740790800,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2650978,
+      "title": "Вы это видели?",
+      "content": {
+        "id": 2650978,
+        "title": "Вы это видели?",
+        "short": "Программа предлагает зрителям уникальный взгляд на самые невероятные и захватывающие моменты в истории спорта",
+        "age": 12,
+        "genres": [979],
+        "category": "ТВ-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740791100",
+        "channel": 4,
+        "timestamp": 1740791100,
+        "duration": 3300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094026,
+      "title": "Бокс. Bare Knuckle FC. Кит Ричардсон против Бехзода Усмонова. Трансляция из США",
+      "content": {
+        "id": 3094026,
+        "title": "Бокс. Bare Knuckle FC. Кит Ричардсон против Бехзода Усмонова. Трансляция из США",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740794400",
+        "channel": 4,
+        "timestamp": 1740794400,
+        "duration": 3600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094026,
+      "title": "Бокс. Bare Knuckle FC. Кит Ричардсон против Бехзода Усмонова. Трансляция из США",
+      "content": {
+        "id": 3094026,
+        "title": "Бокс. Bare Knuckle FC. Кит Ричардсон против Бехзода Усмонова. Трансляция из США",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740798000",
+        "channel": 4,
+        "timestamp": 1740798000,
+        "duration": 10800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740808800",
+        "channel": 4,
+        "timestamp": 1740808800,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740809100",
+        "channel": 4,
+        "timestamp": 1740809100,
+        "duration": 1500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094027,
+      "title": "Лыжные гонки. ФосАгро Чемпионат России. Скиатлон. Женщины. Трансляция из Казани",
+      "content": {
+        "id": 3094027,
+        "title": "Лыжные гонки. ФосАгро Чемпионат России. Скиатлон. Женщины. Трансляция из Казани",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740810600",
+        "channel": 4,
+        "timestamp": 1740810600,
+        "duration": 6000
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3065869,
+      "title": "Лыжная страна",
+      "content": {
+        "id": 3065869,
+        "title": "Лыжная страна",
+        "short": "В программе вы найдете актуальные новости, обзоры соревнований, советы профессионалов и много интересного контента",
+        "age": null,
+        "genres": [56, 194],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740816600",
+        "channel": 4,
+        "timestamp": 1740816600,
+        "duration": 2400
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094028,
+      "title": "Лыжные гонки. ФосАгро Чемпионат России. Скиатлон. Мужчины. Трансляция из Казани",
+      "content": {
+        "id": 3094028,
+        "title": "Лыжные гонки. ФосАгро Чемпионат России. Скиатлон. Мужчины. Трансляция из Казани",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740819000",
+        "channel": 4,
+        "timestamp": 1740819000,
+        "duration": 5400
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740824400",
+        "channel": 4,
+        "timestamp": 1740824400,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1147413,
+      "title": "Баскетбол. Единая лига ВТБ. ЦСКА-УНИКС (Казань)",
+      "content": {
+        "id": 1147413,
+        "title": "Баскетбол. Единая лига ВТБ. ЦСКА-УНИКС (Казань)",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740824700",
+        "channel": 4,
+        "timestamp": 1740824700,
+        "duration": 7200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740831900",
+        "channel": 4,
+        "timestamp": 1740831900,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2490457,
+      "title": "Футбол. МИР Российская Премьер-Лига. \"Зенит\" (Санкт-Петербург) - ЦСКА",
+      "content": {
+        "id": 2490457,
+        "title": "Футбол. МИР Российская Премьер-Лига. \"Зенит\" (Санкт-Петербург) - ЦСКА",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740832200",
+        "channel": 4,
+        "timestamp": 1740832200,
+        "duration": 13500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094030,
+      "title": "Футбол. МИР Российская Премьер-Лига. \"Краснодар\" - \"Крылья Советов\" (Самара)",
+      "content": {
+        "id": 3094030,
+        "title": "Футбол. МИР Российская Премьер-Лига. \"Краснодар\" - \"Крылья Советов\" (Самара)",
+        "short": "Предстоящая встреча между \"Краснодаром\" и \"Крыльями Советов\" обещает стать весьма интригующей",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740845700",
+        "channel": 4,
+        "timestamp": 1740845700,
+        "duration": 8100
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740853800",
+        "channel": 4,
+        "timestamp": 1740853800,
+        "duration": 4800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1073442,
+      "title": "Футбол. Чемпионат Испании. \"Атлетико\" - \"Атлетик\"",
+      "content": {
+        "id": 1073442,
+        "title": "Футбол. Чемпионат Испании. \"Атлетико\" - \"Атлетик\"",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740858600",
+        "channel": 4,
+        "timestamp": 1740858600,
+        "duration": 7800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740866400",
+        "channel": 4,
+        "timestamp": 1740866400,
+        "duration": 3300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094024,
+      "title": "Смешанные единоборства. Наше дело. Трансляция из Казани",
+      "content": {
+        "id": 3094024,
+        "title": "Смешанные единоборства. Наше дело. Трансляция из Казани",
+        "short": "",
+        "age": 16,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740869700",
+        "channel": 4,
+        "timestamp": 1740869700,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094025,
+      "title": "Смешанные единоборства. UFC. Манель Кейпе против Асу Алмабаева. Трансляция из США",
+      "content": {
+        "id": 3094025,
+        "title": "Смешанные единоборства. UFC. Манель Кейпе против Асу Алмабаева. Трансляция из США",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740873600",
+        "channel": 4,
+        "timestamp": 1740873600,
+        "duration": 10800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1858781,
+      "title": "Смешанные единоборства. One FC. Трансляция из Таиланда",
+      "content": {
+        "id": 1858781,
+        "title": "Смешанные единоборства. One FC. Трансляция из Таиланда",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740888300",
+        "channel": 4,
+        "timestamp": 1740888300,
+        "duration": 10500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740898800",
+        "channel": 4,
+        "timestamp": 1740898800,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2520987,
+      "title": "Команда Матч",
+      "content": {
+        "id": 2520987,
+        "title": "Команда Матч",
+        "short": "Харизматичный тренер Лев Борисович вдохновляет зверят на новые рекорды в спорте и помогает им преодолеть страхи",
+        "age": 0,
+        "category": "М/с",
+        "rating": 8.8,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 8.8
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740899100",
+        "channel": 4,
+        "timestamp": 1740899100,
+        "duration": 1500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094029,
+      "title": "Лыжные гонки. ФосАгро Чемпионат России. Смешанная эстафета. Трансляция из Казани",
+      "content": {
+        "id": 3094029,
+        "title": "Лыжные гонки. ФосАгро Чемпионат России. Смешанная эстафета. Трансляция из Казани",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740900600",
+        "channel": 4,
+        "timestamp": 1740900600,
+        "duration": 6000
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3065869,
+      "title": "Лыжная страна",
+      "content": {
+        "id": 3065869,
+        "title": "Лыжная страна",
+        "short": "В программе вы найдете актуальные новости, обзоры соревнований, советы профессионалов и много интересного контента",
+        "age": null,
+        "genres": [56, 194],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740906600",
+        "channel": 4,
+        "timestamp": 1740906600,
+        "duration": 2100
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094022,
+      "title": "Лёгкая атлетика. ПСБ Чемпионат России в закрытых помещениях. Трансляция из Москвы",
+      "content": {
+        "id": 3094022,
+        "title": "Лёгкая атлетика. ПСБ Чемпионат России в закрытых помещениях. Трансляция из Москвы",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740908700",
+        "channel": 4,
+        "timestamp": 1740908700,
+        "duration": 9300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740918000",
+        "channel": 4,
+        "timestamp": 1740918000,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740918300",
+        "channel": 4,
+        "timestamp": 1740918300,
+        "duration": 2100
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2484554,
+      "title": "Футбол. МИР Российская Премьер-Лига. \"Спартак\" (Москва) - \"Оренбург\"",
+      "content": {
+        "id": 2484554,
+        "title": "Футбол. МИР Российская Премьер-Лига. \"Спартак\" (Москва) - \"Оренбург\"",
+        "short": "\"Оренбург\" проводит крайне противоречивый сезон. А вот у их оппонентов из \"Спартака\" дела идут гораздо лучше",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740920400",
+        "channel": 4,
+        "timestamp": 1740920400,
+        "duration": 9900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740930300",
+        "channel": 4,
+        "timestamp": 1740930300,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3094032,
+      "title": "Футбол. МИР Российская Премьер-Лига. \"Ростов\" (Ростов-на-Дону) - \"Динамо\" (Москва)",
+      "content": {
+        "id": 3094032,
+        "title": "Футбол. МИР Российская Премьер-Лига. \"Ростов\" (Ростов-на-Дону) - \"Динамо\" (Москва)",
+        "short": "Новый этап в соперничестве \"Ростова\" и \"Динамо\" будет интересен, прежде всего, состязанием тренерских концепций",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740932100",
+        "channel": 4,
+        "timestamp": 1740932100,
+        "duration": 8100
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1213538,
+      "title": "После футбола с Георгием Черданцевым",
+      "content": {
+        "id": 1213538,
+        "title": "После футбола с Георгием Черданцевым",
+        "short": "Обзор тура чемпионата России с Георгием Черданцевым",
+        "age": null,
+        "genres": [1234],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740940200",
+        "channel": 4,
+        "timestamp": 1740940200,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 910241,
+      "title": "Футбол. Чемпионат Италии. \"Милан\"-\"Лацио\"",
+      "content": {
+        "id": 910241,
+        "title": "Футбол. Чемпионат Италии. \"Милан\"-\"Лацио\"",
+        "short": "",
+        "age": null,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740944100",
+        "channel": 4,
+        "timestamp": 1740944100,
+        "duration": 7800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1212114,
+      "title": "Все на Матч!",
+      "content": {
+        "id": 1212114,
+        "title": "Все на Матч!",
+        "short": "Спортивная аналитика, мнения экспертов, прогнозы спортивных событий и встречи со звёздами спорта",
+        "age": null,
+        "genres": [1234, 200, 194],
+        "category": "Ток-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740951900",
+        "channel": 4,
+        "timestamp": 1740951900,
+        "duration": 4200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2633255,
+      "title": "Волейбол. Чемпионат России. Pari Суперлига. Женщины. \"Локомотив\" (Калининградская область) - \"Ленинградка\" (Санкт-Петербург)",
+      "content": {
+        "id": 2633255,
+        "title": "Волейбол. Чемпионат России. Pari Суперлига. Женщины. \"Локомотив\" (Калининградская область) - \"Ленинградка\" (Санкт-Петербург)",
+        "short": "",
+        "age": 6,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740956100",
+        "channel": 4,
+        "timestamp": 1740956100,
+        "duration": 7200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1218268,
+      "title": "Новости",
+      "content": {
+        "id": 1218268,
+        "title": "Новости",
+        "short": "Информационный новостной выпуск о главных событиях в мире спорта",
+        "age": 0,
+        "genres": [1234, 979],
+        "category": "Новости",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740963300",
+        "channel": 4,
+        "timestamp": 1740963300,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1107925,
+      "title": "Футбол. Чемпионат Германии. \"Айнтрахт\" (Франкфурт)-\"Байер\"",
+      "content": {
+        "id": 1107925,
+        "title": "Футбол. Чемпионат Германии. \"Айнтрахт\" (Франкфурт)-\"Байер\"",
+        "short": "",
+        "age": 6,
+        "genres": [1364],
+        "category": "Спорт",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "41740963600",
+        "channel": 4,
+        "timestamp": 1740963600,
+        "duration": 7200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    }
+  ]
+}

@@ -1,0 +1,3053 @@
+{
+  "error_code": 0,
+  "desp": "",
+  "data": [
+    {
+      "id": 2600351,
+      "title": "Фиксики. Дай пять!",
+      "content": {
+        "id": 2600351,
+        "title": "Фиксики. Дай пять!",
+        "short": "Удастся ли персонажам создать лучший музей, а фиксикам - сохранить тайну своего существования перед новыми людьми?",
+        "age": 0,
+        "genres": [133],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": {
+        "id": 5075280,
+        "title": "Сборник 268-й",
+        "description": "Яблоко - Жребий - Волейбол - Учитель - Заправка - Близнецы - Спутник - Терменвокс - Фитнес-браслет - Комбинезон - Дискотека - Секрет - Репортаж",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740638400",
+        "channel": 11,
+        "timestamp": 1740638400,
+        "duration": 4800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3087879,
+      "title": "Джи-Джи Бонд: Супергонщик",
+      "content": {
+        "id": 3087879,
+        "title": "Джи-Джи Бонд: Супергонщик",
+        "short": "Джи-Джи Бонд и доктор Миху создают команду \"Суперзвёзды\" и участвуют в гоночном турнире, чтобы пройти в следующий этап",
+        "age": 6,
+        "genres": [1234, 427, 642],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740643200",
+        "channel": 11,
+        "timestamp": 1740643200,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3079548,
+      "title": "Отважные дракончики",
+      "content": {
+        "id": 3079548,
+        "title": "Отважные дракончики",
+        "short": "Мультсериал о команде отважных дракончиков, спасающих Лунный остров",
+        "age": 6,
+        "genres": [445, 427, 642],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740644400",
+        "channel": 11,
+        "timestamp": 1740644400,
+        "duration": 900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1274363,
+      "title": "Тоботы",
+      "content": {
+        "id": 1274363,
+        "title": "Тоботы",
+        "short": "Близнецы с помощью роботов-машин защищают город от преступности",
+        "age": null,
+        "genres": [427, 527, 1387],
+        "category": "М/с",
+        "rating": 8.05,
+        "rating_imdb": 7.6,
+        "rating_kinopoisk": 8.5
+      },
+      "content_episode": {
+        "id": 1009679,
+        "season": 1,
+        "sesies": 17,
+        "title": "17-я серия",
+        "description": "Поскольку злодеи стали менее активными, дети чувствуют себя беспокойно. Франклин предлагает им начать общественные работы. Тоботы помогают жителям, в частности, регулировать дорожное движение",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740645300",
+        "channel": 11,
+        "timestamp": 1740645300,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1496604,
+      "title": "Инфинити Надо",
+      "content": {
+        "id": 1496604,
+        "title": "Инфинити Надо",
+        "short": "Неожиданно где-то на планете Земля падает гигантская башня, и двадцать игроков Инфинити Надо оказываются здесь…",
+        "age": 6,
+        "genres": [527],
+        "category": "М/с",
+        "rating": 8.25,
+        "rating_imdb": 7.8,
+        "rating_kinopoisk": 8.7
+      },
+      "content_episode": {
+        "id": 1931163,
+        "season": 5,
+        "sesies": 3,
+        "title": "Секретная комната",
+        "description": "Оказывается, Люк - второй студент, принятый в Академию в порядке исключения. Друзья хотят узнать о первом студенте",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740647100",
+        "channel": 11,
+        "timestamp": 1740647100,
+        "duration": 1500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1458283,
+      "title": "Навигатор. Новости",
+      "content": {
+        "id": 1458283,
+        "title": "Навигатор. Новости",
+        "short": "Путеводитель по самым интересным событиям!",
+        "age": 0,
+        "genres": [133, 979],
+        "category": "Познавательное",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740648600",
+        "channel": 11,
+        "timestamp": 1740648600,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1421580,
+      "title": "Погода",
+      "content": {
+        "id": 1421580,
+        "title": "Погода",
+        "short": "Актуальный прогноз погоды от ведущих программы \"Спокойной ночи, малыши!\"",
+        "age": 0,
+        "genres": [67, 979],
+        "category": "ТВ-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740648900",
+        "channel": 11,
+        "timestamp": 1740648900,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2502802,
+      "title": "Отель у овечек",
+      "content": {
+        "id": 2502802,
+        "title": "Отель у овечек",
+        "short": "История дружной семьи овечек, открывших отель в своём старинном особняке",
+        "age": 0,
+        "genres": [1387, 642],
+        "category": "М/с",
+        "rating": 8.8,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 8.8
+      },
+      "content_episode": {
+        "id": 5075284,
+        "title": "Сборник 374-й",
+        "description": "Новый уровень - Репетиция - Птенцы-близнецы - Волшебные копытца - Тайная жизнь Берти - Рекламный ролик - День на море - Талисман на удачу - Волшебники - Игры для всех - Волк среди овец - Берти за главного - Авиаторы - Детский клуб",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740649200",
+        "channel": 11,
+        "timestamp": 1740649200,
+        "duration": 4800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2544226,
+      "title": "Умка",
+      "content": {
+        "id": 2544226,
+        "title": "Умка",
+        "short": "Мальчик и зверята вместе исследуют удивительный мир севера и учатся уважать природу и друг друга",
+        "age": 0,
+        "genres": [1384, 527, 1387],
+        "category": "М/с",
+        "rating": 8,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 8
+      },
+      "content_episode": {
+        "id": 5075287,
+        "title": "Сборник 115-й",
+        "description": "Крикливый зверёк - Дыра в небе - Таинственные следы - Ловушка для голоса - Пасть кита - Снежная стая - Шерстяная берлога",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740654000",
+        "channel": 11,
+        "timestamp": 1740654000,
+        "duration": 3600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1695553,
+      "title": "Край Бебис. Волшебные слёзки",
+      "content": {
+        "id": 1695553,
+        "title": "Край Бебис. Волшебные слёзки",
+        "short": "Маленькие подружки с чудо-слезами учатся поддерживать друг друга. Мультистории по очень популярной серии кукол",
+        "age": 0,
+        "genres": [133, 1384, 1387, 642],
+        "category": "М/с",
+        "rating": 6.45,
+        "rating_imdb": 4.5,
+        "rating_kinopoisk": 8.4
+      },
+      "content_episode": {
+        "id": 4592485,
+        "season": 5,
+        "sesies": 12,
+        "title": "Особый билет",
+        "description": "У малышек Фроузен Фрутти осталось очень много мороженого. Всё потому, что в последнее время у них не так много заказов. Малышкам приходит идея спрятать внутри одной из порций мороженого специальный билет",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740657600",
+        "channel": 11,
+        "timestamp": 1740657600,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1094756,
+      "title": "Барбоскины",
+      "content": {
+        "id": 1094756,
+        "title": "Барбоскины",
+        "short": "Весёлые приключения семьи Барбоскиных: мамы, папы и пятерых щенят. У них всё - как у людей",
+        "age": 0,
+        "genres": [1384, 523, 527, 1387, 642],
+        "category": "М/с",
+        "rating": 6.1,
+        "rating_imdb": 5.3,
+        "rating_kinopoisk": 6.9
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740657900",
+        "channel": 11,
+        "timestamp": 1740657900,
+        "duration": 6900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3054272,
+      "title": "Макс и Крякс",
+      "content": {
+        "id": 3054272,
+        "title": "Макс и Крякс",
+        "short": "Мастерите симпатичные поделки вместе с Максом и Кряксом!",
+        "age": 0,
+        "genres": [527, 642],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740664800",
+        "channel": 11,
+        "timestamp": 1740664800,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2835963,
+      "title": "Мини-мишки: Новые приключения",
+      "content": {
+        "id": 2835963,
+        "title": "Мини-мишки: Новые приключения",
+        "short": "Новые приключения Кеши, Тучки и их друзей в крошечном игрушечном городке",
+        "age": 0,
+        "genres": [1387],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": {
+        "id": 5075288,
+        "title": "Сборник 162-й",
+        "description": "Таинственная яма - Новый бант - Любимая игра - Полетели! - Лучший друг - Команда - Лисоня - На помощь! - Облака - Путешественница - Хвастунишка - Цветок - Эхо - Настроение - Щёлк, и готово! - Ветрячок - Шиворот-навыворот - Принцесса Соня",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740665100",
+        "channel": 11,
+        "timestamp": 1740665100,
+        "duration": 6900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 996701,
+      "title": "Спокойной ночи, малыши!",
+      "content": {
+        "id": 996701,
+        "title": "Спокойной ночи, малыши!",
+        "short": "Лучшая детская программа с неизменными \"ведущими\"",
+        "age": null,
+        "genres": [133, 1387],
+        "category": "Досуг, хобби",
+        "rating": 7.5,
+        "rating_imdb": 7.5,
+        "rating_kinopoisk": 7.5
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740672000",
+        "channel": 11,
+        "timestamp": 1740672000,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1586751,
+      "title": "Оранжевая корова",
+      "content": {
+        "id": 1586751,
+        "title": "Оранжевая корова",
+        "short": "Мультсериал о приключениях оранжевых коров!",
+        "age": 0,
+        "genres": [527, 1387],
+        "category": "М/с",
+        "rating": 8.25,
+        "rating_imdb": 8,
+        "rating_kinopoisk": 8.5
+      },
+      "content_episode": {
+        "id": 5075299,
+        "title": "Сборник 2067-й",
+        "description": "Новый самокат - Солист - Поймай и повтори - Весеннее чудо - Машинка с секретом - Дорогая мумочка - Полетели - Кораблик - Мелки - Ой, боюсь!",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740673200",
+        "channel": 11,
+        "timestamp": 1740673200,
+        "duration": 4200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3084010,
+      "title": "Карбот. Кунг",
+      "content": {
+        "id": 3084010,
+        "title": "Карбот. Кунг",
+        "short": "Продолжение приключений мальчика Чена и его друзей карботов!",
+        "age": 6,
+        "genres": [427, 1387, 642],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": {
+        "id": 5080739,
+        "title": "Сборник 9-й",
+        "description": "Смайлокунг становится собакой-поводырём - Отель для щенков",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740677400",
+        "channel": 11,
+        "timestamp": 1740677400,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1769425,
+      "title": "Фьюжн Макс",
+      "content": {
+        "id": 1769425,
+        "title": "Фьюжн Макс",
+        "short": "Зрелищный мультсериал о сражениях людей с железными монстрами",
+        "age": 6,
+        "genres": [527],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": {
+        "id": 3213258,
+        "title": "Решение Супримо",
+        "description": "Шон и его друзья бросают вызов Райдэнболту, но ничего не выходит. Им на помощь спешат Шторм и Супримо, вынужденные прибегнуть к трансформации. У них всего одна минута",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740679200",
+        "channel": 11,
+        "timestamp": 1740679200,
+        "duration": 1500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1023430,
+      "title": "Ералаш",
+      "content": {
+        "id": 1023430,
+        "title": "Ералаш",
+        "short": "Киножурнал состоит из смешных и поучительных историй. Добрый юмор и понятные сюжеты придутся по душе абсолютно всем",
+        "age": 0,
+        "genres": [48],
+        "category": "Юмор",
+        "rating": 6.9,
+        "rating_imdb": 6.5,
+        "rating_kinopoisk": 7.3
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740680700",
+        "channel": 11,
+        "timestamp": 1740680700,
+        "duration": 5400
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2646993,
+      "title": "Лудлвилль",
+      "content": {
+        "id": 2646993,
+        "title": "Лудлвилль",
+        "short": "Немного смекалки, фантазии и волшебства - и самый обычный день может превратиться в приключение!",
+        "age": 0,
+        "genres": [523, 527, 1387],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740686100",
+        "channel": 11,
+        "timestamp": 1740686100,
+        "duration": 14700
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3086434,
+      "title": "Панда и Антилопа",
+      "content": {
+        "id": 3086434,
+        "title": "Панда и Антилопа",
+        "short": "Весёлые приключения друзей - китайского панды и южноафриканской антилопы",
+        "age": 0,
+        "genres": [445, 527, 642],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": {
+        "id": 5075302,
+        "title": "Сборник 14-й",
+        "description": "Дом-маяк - Большая медведица - В ожидании дождя",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740700800",
+        "channel": 11,
+        "timestamp": 1740700800,
+        "duration": 2100
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2298012,
+      "title": "Ну, погоди! Каникулы",
+      "content": {
+        "id": 2298012,
+        "title": "Ну, погоди! Каникулы",
+        "short": "Приключения неразлучной парочки на курорте. Наполненные юмором погони Зайца и Волка не оставят равнодушными никого!",
+        "age": 6,
+        "genres": [523],
+        "category": "М/с",
+        "rating": 3.5,
+        "rating_imdb": 4,
+        "rating_kinopoisk": 3
+      },
+      "content_episode": {
+        "id": 5075306,
+        "title": "Сборник 293-й",
+        "description": "Кулинары - Дикий отдых - Гипноз - День рождения Зайца",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740702900",
+        "channel": 11,
+        "timestamp": 1740702900,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2298012,
+      "title": "Ну, погоди! Каникулы",
+      "content": {
+        "id": 2298012,
+        "title": "Ну, погоди! Каникулы",
+        "short": "Приключения неразлучной парочки на курорте. Наполненные юмором погони Зайца и Волка не оставят равнодушными никого!",
+        "age": 6,
+        "genres": [523],
+        "category": "М/с",
+        "rating": 3.5,
+        "rating_imdb": 4,
+        "rating_kinopoisk": 3
+      },
+      "content_episode": {
+        "id": 5075306,
+        "title": "Сборник 293-й",
+        "description": "Кулинары - Дикий отдых - Гипноз - День рождения Зайца",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740703200",
+        "channel": 11,
+        "timestamp": 1740703200,
+        "duration": 2400
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1773482,
+      "title": "Просто о важном. Про Миру и Гошу",
+      "content": {
+        "id": 1773482,
+        "title": "Просто о важном. Про Миру и Гошу",
+        "short": "О жизни простой семьи: мама, папа, старший брат, младшая сестра и собачка Соня",
+        "age": 0,
+        "genres": [527],
+        "category": "М/с",
+        "rating": 8.8,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 8.8
+      },
+      "content_episode": {
+        "id": 5075308,
+        "title": "Сборник 129-й",
+        "description": "Помогать правильно - Ошибаться не страшно - Кулинарный мастер-класс - Я не люблю лук - Честная победа - Ужасные два - Стой на том же месте - Скучно",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740704700",
+        "channel": 11,
+        "timestamp": 1740704700,
+        "duration": 3300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1773482,
+      "title": "Просто о важном. Про Миру и Гошу",
+      "content": {
+        "id": 1773482,
+        "title": "Просто о важном. Про Миру и Гошу",
+        "short": "О жизни простой семьи: мама, папа, старший брат, младшая сестра и собачка Соня",
+        "age": 0,
+        "genres": [527],
+        "category": "М/с",
+        "rating": 8.8,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 8.8
+      },
+      "content_episode": {
+        "id": 5075308,
+        "title": "Сборник 129-й",
+        "description": "Помогать правильно - Ошибаться не страшно - Кулинарный мастер-класс - Я не люблю лук - Честная победа - Ужасные два - Стой на том же месте - Скучно",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740705600",
+        "channel": 11,
+        "timestamp": 1740705600,
+        "duration": 2400
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1293208,
+      "title": "С добрым утром, малыши!",
+      "content": {
+        "id": 1293208,
+        "title": "С добрым утром, малыши!",
+        "short": "Просыпайтесь с нами, и ваше утро обязательно будет добрым!",
+        "age": 0,
+        "genres": [133],
+        "category": "Познавательное",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740708000",
+        "channel": 11,
+        "timestamp": 1740708000,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1421580,
+      "title": "Погода",
+      "content": {
+        "id": 1421580,
+        "title": "Погода",
+        "short": "Актуальный прогноз погоды от ведущих программы \"Спокойной ночи, малыши!\"",
+        "age": 0,
+        "genres": [67, 979],
+        "category": "ТВ-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740709800",
+        "channel": 11,
+        "timestamp": 1740709800,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2400160,
+      "title": "Котёнок Шмяк",
+      "content": {
+        "id": 2400160,
+        "title": "Котёнок Шмяк",
+        "short": "Мультсериал о необычной дружбе чёрного котёнка Шмяка и мышонка Сырника, которые познают силу доброты и взаимовыручки",
+        "age": 0,
+        "genres": [527, 1387],
+        "category": "М/с",
+        "rating": 8.8,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 8.8
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740710100",
+        "channel": 11,
+        "timestamp": 1740710100,
+        "duration": 11400
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1774495,
+      "title": "Студия Каляки-Маляки",
+      "content": {
+        "id": 1774495,
+        "title": "Студия Каляки-Маляки",
+        "short": "Каляка-Маляка и его подружка Ляля приглашают детей в удивительную студию рисования!",
+        "age": 0,
+        "genres": [133, 1387, 1161],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740721500",
+        "channel": 11,
+        "timestamp": 1740721500,
+        "duration": 1500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 885283,
+      "title": "Фиксики",
+      "content": {
+        "id": 885283,
+        "title": "Фиксики",
+        "short": "Крошечные человечки тайно чинят вещи и показываются только избранным. Анимационный хит о том, как всё устроено",
+        "age": 0,
+        "genres": [527, 1387],
+        "category": "М/с",
+        "rating": 6.9,
+        "rating_imdb": 6.3,
+        "rating_kinopoisk": 7.5
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740723000",
+        "channel": 11,
+        "timestamp": 1740723000,
+        "duration": 7800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3079548,
+      "title": "Отважные дракончики",
+      "content": {
+        "id": 3079548,
+        "title": "Отважные дракончики",
+        "short": "Мультсериал о команде отважных дракончиков, спасающих Лунный остров",
+        "age": 6,
+        "genres": [445, 427, 642],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740730800",
+        "channel": 11,
+        "timestamp": 1740730800,
+        "duration": 900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1274363,
+      "title": "Тоботы",
+      "content": {
+        "id": 1274363,
+        "title": "Тоботы",
+        "short": "Близнецы с помощью роботов-машин защищают город от преступности",
+        "age": null,
+        "genres": [427, 527, 1387],
+        "category": "М/с",
+        "rating": 8.05,
+        "rating_imdb": 7.6,
+        "rating_kinopoisk": 8.5
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740731700",
+        "channel": 11,
+        "timestamp": 1740731700,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1496604,
+      "title": "Инфинити Надо",
+      "content": {
+        "id": 1496604,
+        "title": "Инфинити Надо",
+        "short": "Неожиданно где-то на планете Земля падает гигантская башня, и двадцать игроков Инфинити Надо оказываются здесь…",
+        "age": 6,
+        "genres": [527],
+        "category": "М/с",
+        "rating": 8.25,
+        "rating_imdb": 7.8,
+        "rating_kinopoisk": 8.7
+      },
+      "content_episode": {
+        "id": 1931271,
+        "season": 5,
+        "sesies": 4,
+        "title": "Надо Профессора",
+        "description": "Вики и Аллан соглашаются на битву с Ричардом при условии, что он оставит их в покое",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740733500",
+        "channel": 11,
+        "timestamp": 1740733500,
+        "duration": 1500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1593057,
+      "title": "Навигатор. У нас гости!",
+      "content": {
+        "id": 1593057,
+        "title": "Навигатор. У нас гости!",
+        "short": "Юные ведущие принимают гостей! Будет интересно всем - и детям, и родителям!",
+        "age": 0,
+        "genres": [133],
+        "category": "ТВ-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740735000",
+        "channel": 11,
+        "timestamp": 1740735000,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1421580,
+      "title": "Погода",
+      "content": {
+        "id": 1421580,
+        "title": "Погода",
+        "short": "Актуальный прогноз погоды от ведущих программы \"Спокойной ночи, малыши!\"",
+        "age": 0,
+        "genres": [67, 979],
+        "category": "ТВ-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740735300",
+        "channel": 11,
+        "timestamp": 1740735300,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3046015,
+      "title": "Муся, Чук и Станислав",
+      "content": {
+        "id": 3046015,
+        "title": "Муся, Чук и Станислав",
+        "short": "Супергерои Муся, Чук и Станислав спасают малышей от несчастий и помогают изучать правила безопасного поведения",
+        "age": 6,
+        "genres": [527, 642],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": {
+        "id": 5075332,
+        "title": "Сборник 17-й",
+        "description": "Лифт - Поручни - Окно - Провод - Газ - Кран - Перегрузка - Компьютер - Автомобиль - Хулиганы - Холод",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740735600",
+        "channel": 11,
+        "timestamp": 1740735600,
+        "duration": 4800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2544226,
+      "title": "Умка",
+      "content": {
+        "id": 2544226,
+        "title": "Умка",
+        "short": "Мальчик и зверята вместе исследуют удивительный мир севера и учатся уважать природу и друг друга",
+        "age": 0,
+        "genres": [1384, 527, 1387],
+        "category": "М/с",
+        "rating": 8,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 8
+      },
+      "content_episode": {
+        "id": 5075335,
+        "title": "Сборник 116-й",
+        "description": "Танец тундры - Край земли - Подводные сокровища - Говорящая гора - Солнечная Мушка - Хищная дружба - Крикливый зверёк",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740740400",
+        "channel": 11,
+        "timestamp": 1740740400,
+        "duration": 3600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1586751,
+      "title": "Оранжевая корова",
+      "content": {
+        "id": 1586751,
+        "title": "Оранжевая корова",
+        "short": "Мультсериал о приключениях оранжевых коров!",
+        "age": 0,
+        "genres": [527, 1387],
+        "category": "М/с",
+        "rating": 8.25,
+        "rating_imdb": 8,
+        "rating_kinopoisk": 8.5
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740744000",
+        "channel": 11,
+        "timestamp": 1740744000,
+        "duration": 13800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3054272,
+      "title": "Макс и Крякс",
+      "content": {
+        "id": 3054272,
+        "title": "Макс и Крякс",
+        "short": "Мастерите симпатичные поделки вместе с Максом и Кряксом!",
+        "age": 0,
+        "genres": [527, 642],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740757800",
+        "channel": 11,
+        "timestamp": 1740757800,
+        "duration": 600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 996701,
+      "title": "Спокойной ночи, малыши!",
+      "content": {
+        "id": 996701,
+        "title": "Спокойной ночи, малыши!",
+        "short": "Лучшая детская программа с неизменными \"ведущими\"",
+        "age": null,
+        "genres": [133, 1387],
+        "category": "Досуг, хобби",
+        "rating": 7.5,
+        "rating_imdb": 7.5,
+        "rating_kinopoisk": 7.5
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740758400",
+        "channel": 11,
+        "timestamp": 1740758400,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3058165,
+      "title": "Мастер Витя и Мотор",
+      "content": {
+        "id": 3058165,
+        "title": "Мастер Витя и Мотор",
+        "short": "Гениальный мальчик-инженер вместе с верным робопсом и друзьями помогает справляться с возникающими трудностями",
+        "age": 0,
+        "genres": [527, 642],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": {
+        "id": 5075344,
+        "title": "Сборник 15-й",
+        "description": "Динобот - Черепашья трасса - Сбежавшая ракета - Музыкотик - Разговоры с динозаврами - Собаки в пузырях",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740759600",
+        "channel": 11,
+        "timestamp": 1740759600,
+        "duration": 4200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2998445,
+      "title": "Метазеллс",
+      "content": {
+        "id": 2998445,
+        "title": "Метазеллс",
+        "short": "Юный геймер погружается в виртуальный мир популярной игры, где враждуют два клана",
+        "age": 6,
+        "genres": [1387],
+        "category": "М/с",
+        "rating": 8.666,
+        "rating_imdb": 8.4,
+        "rating_kinopoisk": 8.932
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740763800",
+        "channel": 11,
+        "timestamp": 1740763800,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1556591,
+      "title": "Дикие Скричеры",
+      "content": {
+        "id": 1556591,
+        "title": "Дикие Скричеры",
+        "short": "Мультсериал о зрелищных сражениях скричеров - боевых роботов, способных превращаться в свирепых механических зверей",
+        "age": 6,
+        "genres": [441, 527, 1340],
+        "category": "М/с",
+        "rating": 8.2,
+        "rating_imdb": 7.6,
+        "rating_kinopoisk": 8.8
+      },
+      "content_episode": {
+        "id": 5030639,
+        "title": "Сборник 166-й",
+        "description": "Фальшивый Ксандер - Катастрофа в Сайберсити",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740764100",
+        "channel": 11,
+        "timestamp": 1740764100,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3074207,
+      "title": "Метал Кард Бот",
+      "content": {
+        "id": 3074207,
+        "title": "Метал Кард Бот",
+        "short": "Школьник Джун находит гаджет, позволяющий управлять разумными машинами, скрывающимися среди обычных транспортных средств",
+        "age": 6,
+        "genres": [1384, 427, 441, 527, 642],
+        "category": "М/с",
+        "rating": 8.2,
+        "rating_imdb": 8.2,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740765900",
+        "channel": 11,
+        "timestamp": 1740765900,
+        "duration": 900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1023430,
+      "title": "Ералаш",
+      "content": {
+        "id": 1023430,
+        "title": "Ералаш",
+        "short": "Киножурнал состоит из смешных и поучительных историй. Добрый юмор и понятные сюжеты придутся по душе абсолютно всем",
+        "age": 0,
+        "genres": [48],
+        "category": "Юмор",
+        "rating": 6.9,
+        "rating_imdb": 6.5,
+        "rating_kinopoisk": 7.3
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740766800",
+        "channel": 11,
+        "timestamp": 1740766800,
+        "duration": 5700
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1613019,
+      "title": "44 котёнка",
+      "content": {
+        "id": 1613019,
+        "title": "44 котёнка",
+        "short": "Лампо, Миледи, Пилу и Полетта - очаровательные и очень забавные котята, а ещё верные и неразлучные друзья",
+        "age": 0,
+        "genres": [504, 1384, 523, 527, 1387, 839],
+        "category": "М/с",
+        "rating": 7.25,
+        "rating_imdb": 6.1,
+        "rating_kinopoisk": 8.4
+      },
+      "content_episode": {
+        "id": 5075354,
+        "title": "Сборник 121-й",
+        "description": "Произведение искусства! - Настоящий талант Пеппи - Терри, кот-пожарный - Особенная девочка - Загадка кота-призрака - Воздушная охота за сокровищами - Сэр Ламп, великий игрок в гольф - Пилу и шатающийся зуб - Карандаш, кот-посыльный",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740772500",
+        "channel": 11,
+        "timestamp": 1740772500,
+        "duration": 6300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1009817,
+      "title": "Смешарики. Новые приключения",
+      "content": {
+        "id": 1009817,
+        "title": "Смешарики. Новые приключения",
+        "short": "Новые и интересные истории с давно полюбившимися героями!",
+        "age": 0,
+        "genres": [527],
+        "category": "М/с",
+        "rating": 6.95,
+        "rating_imdb": 6.1,
+        "rating_kinopoisk": 7.8
+      },
+      "content_episode": {
+        "id": 5075357,
+        "title": "Сборник 657-й",
+        "description": "Сложные механизмы почты - Большие планы - Статистика. Искусство кройки и житья - Последняя ошибка Пина - Новая жизнь - Список",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740778800",
+        "channel": 11,
+        "timestamp": 1740778800,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1933995,
+      "title": "Кругляши",
+      "content": {
+        "id": 1933995,
+        "title": "Кругляши",
+        "short": "В Кругляндии живут кругляши - они учатся находить выходы из разных ситуаций. В этом им помогает закадровый голос мамы",
+        "age": 0,
+        "genres": [527, 839],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740782700",
+        "channel": 11,
+        "timestamp": 1740782700,
+        "duration": 4500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2072371,
+      "title": "Чуч-Мяуч",
+      "content": {
+        "id": 2072371,
+        "title": "Чуч-Мяуч",
+        "short": "Истории из жизни девочки Маруси и кота Мяуча, который обладает волшебным даром исполнять желания",
+        "age": 0,
+        "genres": [523],
+        "category": "М/с",
+        "rating": 8.7,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 8.7
+      },
+      "content_episode": {
+        "id": 4978580,
+        "title": "Сборник 63-й",
+        "description": "Настоящее сокровище - Пончик - Яблочная планета - Фефекты речи - Маленькая Эмма - Торт для Эммы Карловны - Здравствуй, дерево! - Нескучный двор - Раз тарелка, два тарелка!",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740787200",
+        "channel": 11,
+        "timestamp": 1740787200,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 466986,
+      "title": "Лунтик и его друзья",
+      "content": {
+        "id": 466986,
+        "title": "Лунтик и его друзья",
+        "short": "Приключения Лунтика, маленького пушистого существа, родившегося на Луне и свалившегося с неё на Землю",
+        "age": 0,
+        "genres": [523, 527],
+        "category": "М/с",
+        "rating": 4.9,
+        "rating_imdb": 4.9,
+        "rating_kinopoisk": 4.9
+      },
+      "content_episode": {
+        "id": 5075362,
+        "title": "Сборник 2042-й",
+        "description": "Большие и маленькие - Сила таланта - Футбольный матч - Новый друг Луны - Свитер - Разбитая ваза - Бобовый стебель - Полоса препятствий - Величайший фокусник - Лунная ягода - Орех - Самокат Лунтика",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740790800",
+        "channel": 11,
+        "timestamp": 1740790800,
+        "duration": 3600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 466986,
+      "title": "Лунтик и его друзья",
+      "content": {
+        "id": 466986,
+        "title": "Лунтик и его друзья",
+        "short": "Приключения Лунтика, маленького пушистого существа, родившегося на Луне и свалившегося с неё на Землю",
+        "age": 0,
+        "genres": [523, 527],
+        "category": "М/с",
+        "rating": 4.9,
+        "rating_imdb": 4.9,
+        "rating_kinopoisk": 4.9
+      },
+      "content_episode": {
+        "id": 5075362,
+        "title": "Сборник 2042-й",
+        "description": "Большие и маленькие - Сила таланта - Футбольный матч - Новый друг Луны - Свитер - Разбитая ваза - Бобовый стебель - Полоса препятствий - Величайший фокусник - Лунная ягода - Орех - Самокат Лунтика",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740791100",
+        "channel": 11,
+        "timestamp": 1740791100,
+        "duration": 3300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1293208,
+      "title": "С добрым утром, малыши!",
+      "content": {
+        "id": 1293208,
+        "title": "С добрым утром, малыши!",
+        "short": "Просыпайтесь с нами, и ваше утро обязательно будет добрым!",
+        "age": 0,
+        "genres": [133],
+        "category": "Познавательное",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740794400",
+        "channel": 11,
+        "timestamp": 1740794400,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1421580,
+      "title": "Погода",
+      "content": {
+        "id": 1421580,
+        "title": "Погода",
+        "short": "Актуальный прогноз погоды от ведущих программы \"Спокойной ночи, малыши!\"",
+        "age": 0,
+        "genres": [67, 979],
+        "category": "ТВ-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740796200",
+        "channel": 11,
+        "timestamp": 1740796200,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1637352,
+      "title": "Чик-зарядка",
+      "content": {
+        "id": 1637352,
+        "title": "Чик-зарядка",
+        "short": "Хотите вырасти сильными и здоровыми? Тогда включайте нашу чик-зарядку и повторяйте упражнения!",
+        "age": 0,
+        "genres": [133],
+        "category": "ТВ-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740796500",
+        "channel": 11,
+        "timestamp": 1740796500,
+        "duration": 600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1772231,
+      "title": "Кошечки-собачки",
+      "content": {
+        "id": 1772231,
+        "title": "Кошечки-собачки",
+        "short": "В небольшом красивом городе, в своих уютных домиках, живут семьи кошечек и собачек. Мультсериал об их приключениях",
+        "age": 0,
+        "genres": [1384, 527, 1387, 642],
+        "category": "М/с",
+        "rating": 8.5,
+        "rating_imdb": 8.4,
+        "rating_kinopoisk": 8.6
+      },
+      "content_episode": {
+        "id": 5075366,
+        "title": "Сборник 1184-й",
+        "description": "День рождения Оскара - Победа Викки - Яблочный день",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740797100",
+        "channel": 11,
+        "timestamp": 1740797100,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2511385,
+      "title": "Кошечки-собачки. Милые песни",
+      "content": {
+        "id": 2511385,
+        "title": "Кошечки-собачки. Милые песни",
+        "short": "Как фермер выращивает овощи и чем занимается модельер? Познавательные музыкальные номера от щенят и котят",
+        "age": 0,
+        "genres": [527, 839],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 8.5
+      },
+      "content_episode": {
+        "id": 4093991,
+        "season": 1,
+        "sesies": 12,
+        "title": "День рождения",
+        "description": "Жоржик рассказывал о том, как за ним ночью по городу гнался зомби. Оказалось, что это было всего лишь сном. Дети услышали мелодию и узнали, что это Алиса играет музыку для своего Дня рождения",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740798300",
+        "channel": 11,
+        "timestamp": 1740798300,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1772231,
+      "title": "Кошечки-собачки",
+      "content": {
+        "id": 1772231,
+        "title": "Кошечки-собачки",
+        "short": "В небольшом красивом городе, в своих уютных домиках, живут семьи кошечек и собачек. Мультсериал об их приключениях",
+        "age": 0,
+        "genres": [1384, 527, 1387, 642],
+        "category": "М/с",
+        "rating": 8.5,
+        "rating_imdb": 8.4,
+        "rating_kinopoisk": 8.6
+      },
+      "content_episode": {
+        "id": 5075372,
+        "title": "Сборник 1185-й",
+        "description": "Танец под дождём - Цирк - Двойной день рождения - Кому сюрприз?",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740798600",
+        "channel": 11,
+        "timestamp": 1740798600,
+        "duration": 2100
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2511385,
+      "title": "Кошечки-собачки. Милые песни",
+      "content": {
+        "id": 2511385,
+        "title": "Кошечки-собачки. Милые песни",
+        "short": "Как фермер выращивает овощи и чем занимается модельер? Познавательные музыкальные номера от щенят и котят",
+        "age": 0,
+        "genres": [527, 839],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 8.5
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740800700",
+        "channel": 11,
+        "timestamp": 1740800700,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1772231,
+      "title": "Кошечки-собачки",
+      "content": {
+        "id": 1772231,
+        "title": "Кошечки-собачки",
+        "short": "В небольшом красивом городе, в своих уютных домиках, живут семьи кошечек и собачек. Мультсериал об их приключениях",
+        "age": 0,
+        "genres": [1384, 527, 1387, 642],
+        "category": "М/с",
+        "rating": 8.5,
+        "rating_imdb": 8.4,
+        "rating_kinopoisk": 8.6
+      },
+      "content_episode": {
+        "id": 5075373,
+        "title": "Сборник 1186-й",
+        "description": "Подарок для Дины - Наша игра - наши правила - Мыльные пузыри - Воздушные шарики",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740801000",
+        "channel": 11,
+        "timestamp": 1740801000,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2511385,
+      "title": "Кошечки-собачки. Милые песни",
+      "content": {
+        "id": 2511385,
+        "title": "Кошечки-собачки. Милые песни",
+        "short": "Как фермер выращивает овощи и чем занимается модельер? Познавательные музыкальные номера от щенят и котят",
+        "age": 0,
+        "genres": [527, 839],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 8.5
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740802800",
+        "channel": 11,
+        "timestamp": 1740802800,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1772231,
+      "title": "Кошечки-собачки",
+      "content": {
+        "id": 1772231,
+        "title": "Кошечки-собачки",
+        "short": "В небольшом красивом городе, в своих уютных домиках, живут семьи кошечек и собачек. Мультсериал об их приключениях",
+        "age": 0,
+        "genres": [1384, 527, 1387, 642],
+        "category": "М/с",
+        "rating": 8.5,
+        "rating_imdb": 8.4,
+        "rating_kinopoisk": 8.6
+      },
+      "content_episode": {
+        "id": 5075388,
+        "title": "Сборник 1187-й",
+        "description": "Приглашения - Модная вечеринка - Призвание - Модный спор",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740803100",
+        "channel": 11,
+        "timestamp": 1740803100,
+        "duration": 2100
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1696311,
+      "title": "Съедобное или несъедобное",
+      "content": {
+        "id": 1696311,
+        "title": "Съедобное или несъедобное",
+        "short": "Кулинарное шоу, в котором даже несъедобные продукты превращают в съедобные!",
+        "age": 0,
+        "genres": [133, 67, 270],
+        "category": "ТВ-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740805200",
+        "channel": 11,
+        "timestamp": 1740805200,
+        "duration": 1500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3058165,
+      "title": "Мастер Витя и Мотор",
+      "content": {
+        "id": 3058165,
+        "title": "Мастер Витя и Мотор",
+        "short": "Гениальный мальчик-инженер вместе с верным робопсом и друзьями помогает справляться с возникающими трудностями",
+        "age": 0,
+        "genres": [527, 642],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": {
+        "id": 5080740,
+        "title": "Сборник 17-й",
+        "description": "Черепашья трасса - Нестрашное пугало - Мотор и пчёлы - Разговоры с динозаврами - Сбежавшая ракета - Песенка для цветов - Звезда на высоте",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740806700",
+        "channel": 11,
+        "timestamp": 1740806700,
+        "duration": 5700
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2096545,
+      "title": "Семья на ура!",
+      "content": {
+        "id": 2096545,
+        "title": "Семья на ура!",
+        "short": "Активная семья Тутты Ларсен и Валеры Колоскова встретит утро субботы вместе с нашими телезрителями!",
+        "age": 0,
+        "genres": [133],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740812400",
+        "channel": 11,
+        "timestamp": 1740812400,
+        "duration": 1500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2874182,
+      "title": "Царевна и дракон. Магическая книга",
+      "content": {
+        "id": 2874182,
+        "title": "Царевна и дракон. Магическая книга",
+        "short": "Продолжение приключений царевны Варвары в волшебном мире!",
+        "age": 0,
+        "genres": [527],
+        "category": "М/с",
+        "rating": 8,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 8
+      },
+      "content_episode": {
+        "id": 5075403,
+        "title": "Сборник 13-й",
+        "description": "Новое платье принцессы - Невкусное волшебство - Радуга - это важно! - Острый нюх - Фальшивый фокусник - Королевская аккуратность - Торт за полчаса - Нечестная сила - Ни слова о волшебстве - Что бы сделал Архимед? - Стороны света",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740813900",
+        "channel": 11,
+        "timestamp": 1740813900,
+        "duration": 5700
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2797603,
+      "title": "Это супер!",
+      "content": {
+        "id": 2797603,
+        "title": "Это супер!",
+        "short": "Эта программа расскажет вам обо всём увлекательном и забавном!",
+        "age": 0,
+        "genres": [133, 1031],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740819600",
+        "channel": 11,
+        "timestamp": 1740819600,
+        "duration": 1500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 353347,
+      "title": "Золотая антилопа",
+      "content": {
+        "id": 353347,
+        "title": "Золотая антилопа",
+        "short": "О мальчике, спасшем волшебную антилопу, которая в благодарность помогла ему избавиться от преследования злого раджи",
+        "age": 0,
+        "genres": [592, 181, 527, 1387],
+        "category": "М/ф",
+        "rating": 7.9,
+        "rating_imdb": 7.9,
+        "rating_kinopoisk": 7.9
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740821100",
+        "channel": 11,
+        "timestamp": 1740821100,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1069373,
+      "title": "Рикки-Тикки-Тави",
+      "content": {
+        "id": 1069373,
+        "title": "Рикки-Тикки-Тави",
+        "short": "Это рассказ о великой войне, которую вёл в одиночку Рикки-Тикки-Тави в ванной большого дома в посёлке Сигаули",
+        "age": 0,
+        "genres": [527],
+        "category": "М/ф",
+        "rating": 7.85,
+        "rating_imdb": 7.6,
+        "rating_kinopoisk": 8.1
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740822900",
+        "channel": 11,
+        "timestamp": 1740822900,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1509089,
+      "title": "Простоквашино",
+      "content": {
+        "id": 1509089,
+        "title": "Простоквашино",
+        "short": "Всё в Простоквашино изменилось с появлением одной маленькой девочки по имени Вера Павловна, родной сестры Дяди Фёдора",
+        "age": 0,
+        "genres": [527],
+        "category": "М/с",
+        "rating": 6.7,
+        "rating_imdb": 5.6,
+        "rating_kinopoisk": 7.8
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740824100",
+        "channel": 11,
+        "timestamp": 1740824100,
+        "duration": 8700
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1021842,
+      "title": "Три кота",
+      "content": {
+        "id": 1021842,
+        "title": "Три кота",
+        "short": "Фантазёрам Коржику, Карамельке и Компоту здорово расти вместе! Весёлые истории о дружном кошачьем семействе",
+        "age": 0,
+        "genres": [527, 1387],
+        "category": "М/с",
+        "rating": 7.65,
+        "rating_imdb": 7.1,
+        "rating_kinopoisk": 8.2
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740832800",
+        "channel": 11,
+        "timestamp": 1740832800,
+        "duration": 7800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3058166,
+      "title": "Сказочный патруль. Шоу продолжается",
+      "content": {
+        "id": 3058166,
+        "title": "Сказочный патруль. Шоу продолжается",
+        "short": "Продолжение волшебных приключений Сказочного патруля!",
+        "age": 6,
+        "genres": [445, 527, 642],
+        "category": "М/ф",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740840600",
+        "channel": 11,
+        "timestamp": 1740840600,
+        "duration": 4200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 996701,
+      "title": "Спокойной ночи, малыши!",
+      "content": {
+        "id": 996701,
+        "title": "Спокойной ночи, малыши!",
+        "short": "Лучшая детская программа с неизменными \"ведущими\"",
+        "age": null,
+        "genres": [133, 1387],
+        "category": "Досуг, хобби",
+        "rating": 7.5,
+        "rating_imdb": 7.5,
+        "rating_kinopoisk": 7.5
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740844800",
+        "channel": 11,
+        "timestamp": 1740844800,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2994596,
+      "title": "Семь королевств",
+      "content": {
+        "id": 2994596,
+        "title": "Семь королевств",
+        "short": "Весёлый развивающий мультсериал для самых маленьких о волшебных принцах и принцессах и их сказочных питомцах",
+        "age": 0,
+        "genres": [445, 527, 1387],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": {
+        "id": 4893624,
+        "title": "Сборник 17-й",
+        "description": "Цветик-разноцветик - Зеркало правды - Корона Рози - Сладкий Яр - Злая Злата - Сила искусства - Более-менее - Турбонитро - Стоп, игра!",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740846000",
+        "channel": 11,
+        "timestamp": 1740846000,
+        "duration": 4200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2998445,
+      "title": "Метазеллс",
+      "content": {
+        "id": 2998445,
+        "title": "Метазеллс",
+        "short": "Юный геймер погружается в виртуальный мир популярной игры, где враждуют два клана",
+        "age": 6,
+        "genres": [1387],
+        "category": "М/с",
+        "rating": 8.666,
+        "rating_imdb": 8.4,
+        "rating_kinopoisk": 8.932
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740850200",
+        "channel": 11,
+        "timestamp": 1740850200,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1556591,
+      "title": "Дикие Скричеры",
+      "content": {
+        "id": 1556591,
+        "title": "Дикие Скричеры",
+        "short": "Мультсериал о зрелищных сражениях скричеров - боевых роботов, способных превращаться в свирепых механических зверей",
+        "age": 6,
+        "genres": [441, 527, 1340],
+        "category": "М/с",
+        "rating": 8.2,
+        "rating_imdb": 7.6,
+        "rating_kinopoisk": 8.8
+      },
+      "content_episode": {
+        "id": 5030711,
+        "title": "Сборник 167-й",
+        "description": "Облачный ковчег - Истина и ложь",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740850500",
+        "channel": 11,
+        "timestamp": 1740850500,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3074207,
+      "title": "Метал Кард Бот",
+      "content": {
+        "id": 3074207,
+        "title": "Метал Кард Бот",
+        "short": "Школьник Джун находит гаджет, позволяющий управлять разумными машинами, скрывающимися среди обычных транспортных средств",
+        "age": 6,
+        "genres": [1384, 427, 441, 527, 642],
+        "category": "М/с",
+        "rating": 8.2,
+        "rating_imdb": 8.2,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740852300",
+        "channel": 11,
+        "timestamp": 1740852300,
+        "duration": 900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1023430,
+      "title": "Ералаш",
+      "content": {
+        "id": 1023430,
+        "title": "Ералаш",
+        "short": "Киножурнал состоит из смешных и поучительных историй. Добрый юмор и понятные сюжеты придутся по душе абсолютно всем",
+        "age": 0,
+        "genres": [48],
+        "category": "Юмор",
+        "rating": 6.9,
+        "rating_imdb": 6.5,
+        "rating_kinopoisk": 7.3
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740853200",
+        "channel": 11,
+        "timestamp": 1740853200,
+        "duration": 5700
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1613019,
+      "title": "44 котёнка",
+      "content": {
+        "id": 1613019,
+        "title": "44 котёнка",
+        "short": "Лампо, Миледи, Пилу и Полетта - очаровательные и очень забавные котята, а ещё верные и неразлучные друзья",
+        "age": 0,
+        "genres": [504, 1384, 523, 527, 1387, 839],
+        "category": "М/с",
+        "rating": 7.25,
+        "rating_imdb": 6.1,
+        "rating_kinopoisk": 8.4
+      },
+      "content_episode": {
+        "id": 5075408,
+        "title": "Сборник 122-й",
+        "description": "Великая гонка самокатов - Мир вверх тормашками - Игра в цвета - Суши, собачка-путешественница - Кто из собак лучше всех? - Дождливый день - Ида, кошка-робот - Пончик, кот-почтальон - Игра в баскетпух",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740858900",
+        "channel": 11,
+        "timestamp": 1740858900,
+        "duration": 6300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1009817,
+      "title": "Смешарики. Новые приключения",
+      "content": {
+        "id": 1009817,
+        "title": "Смешарики. Новые приключения",
+        "short": "Новые и интересные истории с давно полюбившимися героями!",
+        "age": 0,
+        "genres": [527],
+        "category": "М/с",
+        "rating": 6.95,
+        "rating_imdb": 6.1,
+        "rating_kinopoisk": 7.8
+      },
+      "content_episode": {
+        "id": 5075409,
+        "title": "Сборник 658-й",
+        "description": "Вместо меня - Большой переворот - Машина времени - Без вопросов - Одно из двух - Кто смеётся последним",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740865200",
+        "channel": 11,
+        "timestamp": 1740865200,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1933995,
+      "title": "Кругляши",
+      "content": {
+        "id": 1933995,
+        "title": "Кругляши",
+        "short": "В Кругляндии живут кругляши - они учатся находить выходы из разных ситуаций. В этом им помогает закадровый голос мамы",
+        "age": 0,
+        "genres": [527, 839],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740869100",
+        "channel": 11,
+        "timestamp": 1740869100,
+        "duration": 4500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2524566,
+      "title": "SMASH! Юные супергерои",
+      "content": {
+        "id": 2524566,
+        "title": "SMASH! Юные супергерои",
+        "short": "Добро пожаловать в тренировочный лагерь для супергероев!",
+        "age": 0,
+        "genres": [181, 1384, 445, 523, 427, 441, 527],
+        "category": "М/с",
+        "rating": 8.5,
+        "rating_imdb": 8.6,
+        "rating_kinopoisk": 8.4
+      },
+      "content_episode": {
+        "id": 5075410,
+        "title": "Сборник 24-й",
+        "description": "Фелисити против блох - Мэй, можно станцевать? - Пинг спасёт всех - Будь здоров! - Пусть победят сильнейшие - Диета Южного озера",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740873600",
+        "channel": 11,
+        "timestamp": 1740873600,
+        "duration": 3600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 466986,
+      "title": "Лунтик и его друзья",
+      "content": {
+        "id": 466986,
+        "title": "Лунтик и его друзья",
+        "short": "Приключения Лунтика, маленького пушистого существа, родившегося на Луне и свалившегося с неё на Землю",
+        "age": 0,
+        "genres": [523, 527],
+        "category": "М/с",
+        "rating": 4.9,
+        "rating_imdb": 4.9,
+        "rating_kinopoisk": 4.9
+      },
+      "content_episode": {
+        "id": 5075411,
+        "title": "Сборник 2043-й",
+        "description": "День космонавтики - Землетрясение - Принцесса Клава - Беседка - Компот - Капитан - Черепаха - Ветка - Кактус - Честная игра - Фокусник - Ролики",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740877200",
+        "channel": 11,
+        "timestamp": 1740877200,
+        "duration": 3600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1293208,
+      "title": "С добрым утром, малыши!",
+      "content": {
+        "id": 1293208,
+        "title": "С добрым утром, малыши!",
+        "short": "Просыпайтесь с нами, и ваше утро обязательно будет добрым!",
+        "age": 0,
+        "genres": [133],
+        "category": "Познавательное",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740880800",
+        "channel": 11,
+        "timestamp": 1740880800,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1421580,
+      "title": "Погода",
+      "content": {
+        "id": 1421580,
+        "title": "Погода",
+        "short": "Актуальный прогноз погоды от ведущих программы \"Спокойной ночи, малыши!\"",
+        "age": 0,
+        "genres": [67, 979],
+        "category": "ТВ-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740882600",
+        "channel": 11,
+        "timestamp": 1740882600,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1637352,
+      "title": "Чик-зарядка",
+      "content": {
+        "id": 1637352,
+        "title": "Чик-зарядка",
+        "short": "Хотите вырасти сильными и здоровыми? Тогда включайте нашу чик-зарядку и повторяйте упражнения!",
+        "age": 0,
+        "genres": [133],
+        "category": "ТВ-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740882900",
+        "channel": 11,
+        "timestamp": 1740882900,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1094756,
+      "title": "Барбоскины",
+      "content": {
+        "id": 1094756,
+        "title": "Барбоскины",
+        "short": "Весёлые приключения семьи Барбоскиных: мамы, папы и пятерых щенят. У них всё - как у людей",
+        "age": 0,
+        "genres": [1384, 523, 527, 1387, 642],
+        "category": "М/с",
+        "rating": 6.1,
+        "rating_imdb": 5.3,
+        "rating_kinopoisk": 6.9
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740883200",
+        "channel": 11,
+        "timestamp": 1740883200,
+        "duration": 8700
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2997919,
+      "title": "Еда как в сказке",
+      "content": {
+        "id": 2997919,
+        "title": "Еда как в сказке",
+        "short": "Давайте вместе разбираться, как приготовить сказочные блюда на современной кухне",
+        "age": 0,
+        "genres": [270],
+        "category": "ТВ-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740891900",
+        "channel": 11,
+        "timestamp": 1740891900,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2507015,
+      "title": "Геройчики",
+      "content": {
+        "id": 2507015,
+        "title": "Геройчики",
+        "short": "История про мальчика Рому и суперкоманду его игрушек - Геройчиков",
+        "age": 0,
+        "genres": [527, 1387],
+        "category": "М/с",
+        "rating": 9,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 9
+      },
+      "content_episode": {
+        "id": 5075412,
+        "title": "Сборник 382-й",
+        "description": "Настоящая принцесса - Любимая игрушка - Эмблема команды - Премия Пинки - Секрет Де Кролля - Призвание Пинки - Гонки",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740893100",
+        "channel": 11,
+        "timestamp": 1740893100,
+        "duration": 5700
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1896959,
+      "title": "Студия красоты",
+      "content": {
+        "id": 1896959,
+        "title": "Студия красоты",
+        "short": "Место, где создаются уникальные гармоничные образы для любого случая!",
+        "age": 0,
+        "genres": [941],
+        "category": "Досуг, хобби",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740898800",
+        "channel": 11,
+        "timestamp": 1740898800,
+        "duration": 900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2829666,
+      "title": "Чик-Чирикино",
+      "content": {
+        "id": 2829666,
+        "title": "Чик-Чирикино",
+        "short": "Шумное семейство воробьёв попадает в ситуации, знакомые любому человеку. Анимационный ситком об уютных буднях",
+        "age": 0,
+        "genres": [1384, 1387, 642],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": {
+        "id": 5075417,
+        "title": "Сборник 125-й",
+        "description": "Аквапарк - Игра в гагару - Кладоискатели - Первая работа - Годовщина - Кресло раздора - Родительское собрание - Монстр в коробке",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740899700",
+        "channel": 11,
+        "timestamp": 1740899700,
+        "duration": 6300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2497965,
+      "title": "У меня лапки",
+      "content": {
+        "id": 2497965,
+        "title": "У меня лапки",
+        "short": "Программа о домашних животных, их породах, видах, характере и привычках",
+        "age": 0,
+        "genres": [133],
+        "category": "ТВ-шоу",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740906000",
+        "channel": 11,
+        "timestamp": 1740906000,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1257836,
+      "title": "Сказочный патруль",
+      "content": {
+        "id": 1257836,
+        "title": "Сказочный патруль",
+        "short": "Город Мышкин наполнен сказочными героями и чудесами. А четыре волшебницы сохраняют баланс между миром сказок и людей",
+        "age": 0,
+        "genres": [527],
+        "category": "М/с",
+        "rating": 8.1,
+        "rating_imdb": 7.5,
+        "rating_kinopoisk": 8.7
+      },
+      "content_episode": {
+        "id": 4496021,
+        "title": "Сборник 759-й",
+        "description": "История 86. Сюрприз для Вари - История 87. Лапы вверх! - История 88. Путь Хранителя",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740907800",
+        "channel": 11,
+        "timestamp": 1740907800,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1687747,
+      "title": "Сказочный патруль. Хроники чудес",
+      "content": {
+        "id": 1687747,
+        "title": "Сказочный патруль. Хроники чудес",
+        "short": "Настало время приоткрыть завесу тайны и поближе познакомиться с миром юных волшебниц и его жителями!",
+        "age": 0,
+        "genres": [527],
+        "category": "М/с",
+        "rating": 7.95,
+        "rating_imdb": 7.3,
+        "rating_kinopoisk": 8.6
+      },
+      "content_episode": {
+        "id": 4348594,
+        "title": "Князь",
+        "description": "Влад в Театре жалуется самому себе, что его, Князя, заставляют убираться. Доспехи возражают, что ничего такого. Но Влад говорит, что уборка - не княжеское дело. Он открывает шкаф и начинает\"биться\" с уборочным инвентарём, после чего поёт песню",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740909600",
+        "channel": 11,
+        "timestamp": 1740909600,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1257836,
+      "title": "Сказочный патруль",
+      "content": {
+        "id": 1257836,
+        "title": "Сказочный патруль",
+        "short": "Город Мышкин наполнен сказочными героями и чудесами. А четыре волшебницы сохраняют баланс между миром сказок и людей",
+        "age": 0,
+        "genres": [527],
+        "category": "М/с",
+        "rating": 8.1,
+        "rating_imdb": 7.5,
+        "rating_kinopoisk": 8.7
+      },
+      "content_episode": {
+        "id": 4727473,
+        "title": "Сборник 856-й",
+        "description": "История 89. Пингвиний твист - История 90. Дело о перчатках",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740909900",
+        "channel": 11,
+        "timestamp": 1740909900,
+        "duration": 1500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1687747,
+      "title": "Сказочный патруль. Хроники чудес",
+      "content": {
+        "id": 1687747,
+        "title": "Сказочный патруль. Хроники чудес",
+        "short": "Настало время приоткрыть завесу тайны и поближе познакомиться с миром юных волшебниц и его жителями!",
+        "age": 0,
+        "genres": [527],
+        "category": "М/с",
+        "rating": 7.95,
+        "rating_imdb": 7.3,
+        "rating_kinopoisk": 8.6
+      },
+      "content_episode": {
+        "id": 3983437,
+        "title": "Стильный танец",
+        "description": "\"Сказочный Патруль\" пришли в Сказочный Мир и заметили, что время остановилось. Они телепортируются в Часовую башню и узнают, что это Алиса остановила время",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740911400",
+        "channel": 11,
+        "timestamp": 1740911400,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1257836,
+      "title": "Сказочный патруль",
+      "content": {
+        "id": 1257836,
+        "title": "Сказочный патруль",
+        "short": "Город Мышкин наполнен сказочными героями и чудесами. А четыре волшебницы сохраняют баланс между миром сказок и людей",
+        "age": 0,
+        "genres": [527],
+        "category": "М/с",
+        "rating": 8.1,
+        "rating_imdb": 7.5,
+        "rating_kinopoisk": 8.7
+      },
+      "content_episode": {
+        "id": 4656782,
+        "title": "Сборник 825-й",
+        "description": "История 91. В гостях у гномов - История 92. Рыбный день",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740911700",
+        "channel": 11,
+        "timestamp": 1740911700,
+        "duration": 1500
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3058166,
+      "title": "Сказочный патруль. Шоу продолжается",
+      "content": {
+        "id": 3058166,
+        "title": "Сказочный патруль. Шоу продолжается",
+        "short": "Продолжение волшебных приключений Сказочного патруля!",
+        "age": 6,
+        "genres": [445, 527, 642],
+        "category": "М/ф",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740913200",
+        "channel": 11,
+        "timestamp": 1740913200,
+        "duration": 3900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 493510,
+      "title": "Маша и Медведь",
+      "content": {
+        "id": 493510,
+        "title": "Маша и Медведь",
+        "short": "Мультсериал про приключения и проделки неразлучных друзей - неугомонной девчушки Маши и обаятельного медведя Миши",
+        "age": 0,
+        "genres": [523, 527, 1387],
+        "category": "М/с",
+        "rating": 7.3,
+        "rating_imdb": 7.3,
+        "rating_kinopoisk": 7.3
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740917100",
+        "channel": 11,
+        "timestamp": 1740917100,
+        "duration": 7200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1586751,
+      "title": "Оранжевая корова",
+      "content": {
+        "id": 1586751,
+        "title": "Оранжевая корова",
+        "short": "Мультсериал о приключениях оранжевых коров!",
+        "age": 0,
+        "genres": [527, 1387],
+        "category": "М/с",
+        "rating": 8.25,
+        "rating_imdb": 8,
+        "rating_kinopoisk": 8.5
+      },
+      "content_episode": {
+        "id": 5075419,
+        "title": "Сборник 2070-й",
+        "description": "Серьёзный разговор - Счастливая пуговица - Непобедимая Зо - Тайный сюрприз - Спросите Зо - Сонные каникулы - Уже не маленький - Блины подождут - Розыгрыш - А как же торт? - Весенний карнавал - Подарок - Вот это новости - Кто украл аппетит - Доставка",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740924300",
+        "channel": 11,
+        "timestamp": 1740924300,
+        "duration": 6900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 996701,
+      "title": "Спокойной ночи, малыши!",
+      "content": {
+        "id": 996701,
+        "title": "Спокойной ночи, малыши!",
+        "short": "Лучшая детская программа с неизменными \"ведущими\"",
+        "age": null,
+        "genres": [133, 1387],
+        "category": "Досуг, хобби",
+        "rating": 7.5,
+        "rating_imdb": 7.5,
+        "rating_kinopoisk": 7.5
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740931200",
+        "channel": 11,
+        "timestamp": 1740931200,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1239723,
+      "title": "Буба",
+      "content": {
+        "id": 1239723,
+        "title": "Буба",
+        "short": "Мультфильм о любопытном домовом, который ежеминутно находит приключения на свою седую голову",
+        "age": 6,
+        "genres": [523, 527, 1387],
+        "category": "М/с",
+        "rating": 7.4,
+        "rating_imdb": 6.8,
+        "rating_kinopoisk": 8
+      },
+      "content_episode": {
+        "id": 5075420,
+        "title": "Сборник 1029-й",
+        "description": "Гномы - Картинная галерея - Рыцарь",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740932400",
+        "channel": 11,
+        "timestamp": 1740932400,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1827106,
+      "title": "Готовим с Бубой",
+      "content": {
+        "id": 1827106,
+        "title": "Готовим с Бубой",
+        "short": "На уютной кухне в свете прожекторов - Буба в большом белом колпаке!",
+        "age": 0,
+        "genres": [1384, 523],
+        "category": "М/с",
+        "rating": 8.3,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 8.3
+      },
+      "content_episode": {
+        "id": 2246090,
+        "sesies": 1,
+        "title": "Блинчики-зверюшки",
+        "description": "В этой серии Буба и Лула украшают блинчики",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740933600",
+        "channel": 11,
+        "timestamp": 1740933600,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1239723,
+      "title": "Буба",
+      "content": {
+        "id": 1239723,
+        "title": "Буба",
+        "short": "Мультфильм о любопытном домовом, который ежеминутно находит приключения на свою седую голову",
+        "age": 6,
+        "genres": [523, 527, 1387],
+        "category": "М/с",
+        "rating": 7.4,
+        "rating_imdb": 6.8,
+        "rating_kinopoisk": 8
+      },
+      "content_episode": {
+        "id": 5075421,
+        "title": "Сборник 1030-й",
+        "description": "Волшебные игрушки - Волшебное зеркало - Волшебная маска",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740933900",
+        "channel": 11,
+        "timestamp": 1740933900,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1827106,
+      "title": "Готовим с Бубой",
+      "content": {
+        "id": 1827106,
+        "title": "Готовим с Бубой",
+        "short": "На уютной кухне в свете прожекторов - Буба в большом белом колпаке!",
+        "age": 0,
+        "genres": [1384, 523],
+        "category": "М/с",
+        "rating": 8.3,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 8.3
+      },
+      "content_episode": {
+        "id": 3295800,
+        "sesies": 16,
+        "title": "Летающие вафли",
+        "description": "Весёлое авиамоделирование на кухне! Берём вафли, делаем из них крылья, хвост и фюзеляж и склеиваем все детали шоколадом. Для шасси возьмём зефирки. Полетели прямо в рот!",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740935100",
+        "channel": 11,
+        "timestamp": 1740935100,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1239723,
+      "title": "Буба",
+      "content": {
+        "id": 1239723,
+        "title": "Буба",
+        "short": "Мультфильм о любопытном домовом, который ежеминутно находит приключения на свою седую голову",
+        "age": 6,
+        "genres": [523, 527, 1387],
+        "category": "М/с",
+        "rating": 7.4,
+        "rating_imdb": 6.8,
+        "rating_kinopoisk": 8
+      },
+      "content_episode": {
+        "id": 5075423,
+        "title": "Сборник 1031-й",
+        "description": "Весёлый скалодром - Круглые миры",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740935400",
+        "channel": 11,
+        "timestamp": 1740935400,
+        "duration": 1200
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 2998445,
+      "title": "Метазеллс",
+      "content": {
+        "id": 2998445,
+        "title": "Метазеллс",
+        "short": "Юный геймер погружается в виртуальный мир популярной игры, где враждуют два клана",
+        "age": 6,
+        "genres": [1387],
+        "category": "М/с",
+        "rating": 8.666,
+        "rating_imdb": 8.4,
+        "rating_kinopoisk": 8.932
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740936600",
+        "channel": 11,
+        "timestamp": 1740936600,
+        "duration": 300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1556591,
+      "title": "Дикие Скричеры",
+      "content": {
+        "id": 1556591,
+        "title": "Дикие Скричеры",
+        "short": "Мультсериал о зрелищных сражениях скричеров - боевых роботов, способных превращаться в свирепых механических зверей",
+        "age": 6,
+        "genres": [441, 527, 1340],
+        "category": "М/с",
+        "rating": 8.2,
+        "rating_imdb": 7.6,
+        "rating_kinopoisk": 8.8
+      },
+      "content_episode": {
+        "id": 5037478,
+        "title": "Сборник 168-й",
+        "description": "Загадочная девушка - Слухи и правда",
+        "schedules": null
+      },
+      "schedules": {
+        "id": "111740936900",
+        "channel": 11,
+        "timestamp": 1740936900,
+        "duration": 1800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 3074207,
+      "title": "Метал Кард Бот",
+      "content": {
+        "id": 3074207,
+        "title": "Метал Кард Бот",
+        "short": "Школьник Джун находит гаджет, позволяющий управлять разумными машинами, скрывающимися среди обычных транспортных средств",
+        "age": 6,
+        "genres": [1384, 427, 441, 527, 642],
+        "category": "М/с",
+        "rating": 8.2,
+        "rating_imdb": 8.2,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740938700",
+        "channel": 11,
+        "timestamp": 1740938700,
+        "duration": 900
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1023430,
+      "title": "Ералаш",
+      "content": {
+        "id": 1023430,
+        "title": "Ералаш",
+        "short": "Киножурнал состоит из смешных и поучительных историй. Добрый юмор и понятные сюжеты придутся по душе абсолютно всем",
+        "age": 0,
+        "genres": [48],
+        "category": "Юмор",
+        "rating": 6.9,
+        "rating_imdb": 6.5,
+        "rating_kinopoisk": 7.3
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740939600",
+        "channel": 11,
+        "timestamp": 1740939600,
+        "duration": 5700
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1613019,
+      "title": "44 котёнка",
+      "content": {
+        "id": 1613019,
+        "title": "44 котёнка",
+        "short": "Лампо, Миледи, Пилу и Полетта - очаровательные и очень забавные котята, а ещё верные и неразлучные друзья",
+        "age": 0,
+        "genres": [504, 1384, 523, 527, 1387, 839],
+        "category": "М/с",
+        "rating": 7.25,
+        "rating_imdb": 6.1,
+        "rating_kinopoisk": 8.4
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740945300",
+        "channel": 11,
+        "timestamp": 1740945300,
+        "duration": 6300
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1009817,
+      "title": "Смешарики. Новые приключения",
+      "content": {
+        "id": 1009817,
+        "title": "Смешарики. Новые приключения",
+        "short": "Новые и интересные истории с давно полюбившимися героями!",
+        "age": 0,
+        "genres": [527],
+        "category": "М/с",
+        "rating": 6.95,
+        "rating_imdb": 6.1,
+        "rating_kinopoisk": 7.8
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740951600",
+        "channel": 11,
+        "timestamp": 1740951600,
+        "duration": 3600
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    },
+    {
+      "id": 1933995,
+      "title": "Кругляши",
+      "content": {
+        "id": 1933995,
+        "title": "Кругляши",
+        "short": "В Кругляндии живут кругляши - они учатся находить выходы из разных ситуаций. В этом им помогает закадровый голос мамы",
+        "age": 0,
+        "genres": [527, 839],
+        "category": "М/с",
+        "rating": 0,
+        "rating_imdb": 0,
+        "rating_kinopoisk": 0
+      },
+      "content_episode": null,
+      "schedules": {
+        "id": "111740955200",
+        "channel": 11,
+        "timestamp": 1740955200,
+        "duration": 4800
+      },
+      "packets": [3],
+      "is_purchased": false,
+      "is_geo_available": true
+    }
+  ]
+}

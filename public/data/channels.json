@@ -1,0 +1,36 @@
+{
+  "error_code": 0,
+  "desp": "",
+  "data": [
+    {
+      "id": 4,
+      "title": "Матч ТВ",
+      "description": "Матч",
+      "number": 3,
+      "categories": [14, 2, 3],
+      "icon_path": "",
+      "archive_hours": 72,
+      "age_rating": 0,
+      "slug": "match_tv_ufa",
+      "packets": [3],
+      "is_favorite": false,
+      "is_purchased": true,
+      "is_geo_available": true
+    },
+    {
+      "id": 11,
+      "title": "Карусель",
+      "description": "karusel",
+      "number": 8,
+      "categories": [5],
+      "icon_path": "",
+      "archive_hours": 0,
+      "age_rating": 0,
+      "slug": "karusel_ufa",
+      "packets": [3],
+      "is_favorite": false,
+      "is_purchased": true,
+      "is_geo_available": true
+    }
+  ]
+}

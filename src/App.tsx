@@ -1,35 +1,36 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useEffect, useState } from 'react'
+import { Spin } from 'antd'
+import { LoadingOutlined } from '@ant-design/icons'
+import { observer } from 'mobx-react-lite'
+import channelsStore from './shared/store/ChannelsStore'
+import Container from './shared/ui/Container/Container'
+import { ChannelSelect } from './widgets/ChannelSelect/ChannelSelect'
+import BroadcastList from './widgets/BroadcastList/BroadcastList'
+import TabsComponent from './shared/ui/TabsComponent/TabsComponent'
 
-function App() {
-  const [count, setCount] = useState(0)
+const App = observer(() => {
+  const [selectedDate, setSelectedDate] = useState<Date>(new Date())
 
-  return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+  const { getChannels, broadcast, isChannelsLoading } = channelsStore
+
+  console.log(selectedDate)
+
+  useEffect(() => {
+    getChannels()
+  }, [])
+
+  return isChannelsLoading ? (
+    <Spin indicator={<LoadingOutlined style={{ fontSize: 48 }} spin />} />
+  ) : (
+    <Container classname="max-w-xl m-auto max-h-screen h-full py-12 relative mt-20">
+      <div className="fixed top-0 left-0 w-full bg-white z-10 pt-6">
+        <div className="max-w-xl w-full m-auto">
+          <ChannelSelect />
+          <TabsComponent onChangeAction={setSelectedDate} items={broadcast} />
+        </div>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+      <BroadcastList selectedDate={selectedDate} items={broadcast} />
+    </Container>
   )
-}
-
+})
 export default App
