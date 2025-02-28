@@ -6,6 +6,8 @@ import { LoadingOutlined } from '@ant-design/icons'
 import channelsStore from '../../shared/store/ChannelsStore'
 import { observer } from 'mobx-react-lite'
 import isProgramLive from '../../features/isPorgramLive'
+import scrollTo from '../../features/scrollTo'
+import sameDates from '../../features/sameDates'
 
 interface BroadcastListProps {
   items: IBroadcast[]
@@ -17,6 +19,9 @@ const BroadcastList = observer(({ items, selectedDate = new Date() }: BroadcastL
 
   useEffect(() => {
     getChannelBroadcast()
+    setTimeout(() => {
+      scrollTo('.isLive')
+    }, 700)
   }, [channel])
 
   return isBroadcastLoading ? (
@@ -27,6 +32,7 @@ const BroadcastList = observer(({ items, selectedDate = new Date() }: BroadcastL
         const isLive = isProgramLive(item.schedules.start_at, items[index + 1]?.schedules.start_at)
         return (
           <BroadcastItem
+            classname={sameDates(new Date(item.schedules.timestamp * 1000), selectedDate) ? '' : 'hidden'}
             selectedDate={selectedDate}
             key={`${item.id}-${item.schedules.timestamp}`}
             item={item}

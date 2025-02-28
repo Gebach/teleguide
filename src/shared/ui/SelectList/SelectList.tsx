@@ -1,5 +1,6 @@
 import { Select } from 'antd'
 import { SelectListProps } from '../../types/types'
+import channelsStore from '../../store/ChannelsStore'
 
 function SelectList({
   items,
@@ -9,6 +10,9 @@ function SelectList({
   notFoundText = 'Пусто..',
   placeholder = 'Выберите из списка',
 }: SelectListProps) {
+  const { isChannelsLoading } = channelsStore
+  let initialvalue: string = 'Матч ТВ'
+  if (!isChannelsLoading) initialvalue = items[0]?.value
   return (
     <Select
       className={classname}
@@ -16,6 +20,7 @@ function SelectList({
       placeholder={placeholder}
       optionFilterProp="label"
       defaultActiveFirstOption={true}
+      defaultValue={initialvalue}
       onChange={onChange}
       onSearch={onSearch}
       options={items}

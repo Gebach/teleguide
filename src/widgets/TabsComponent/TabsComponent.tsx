@@ -12,9 +12,8 @@ const TabsComponent = observer(({ items, classname, onChangeAction }: TabsCompon
   }))
 
   function onChange(key: string) {
-    onChangeAction(new Date(Number(key.split('.')[2]), Number(key.split('.')[1]), Number(key.split('.')[0])))
-    console.log(Number(key.split('.')[2]), Number(key.split('.')[1]), Number(key.split('.')[0]))
-    console.log(`${key.split('.')[2]}-${key.split('.')[1]}-${key.split('.')[0]}`)
+    console.log(key)
+    onChangeAction(new Date(Number(key.split('.')[2]), Number(key.split('.')[1]) - 1, Number(key.split('.')[0])))
   }
 
   return <Tabs onChange={onChange} tabPosition="top" className={classname} items={tabItems} />
