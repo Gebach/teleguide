@@ -11,7 +11,7 @@ export const parseBroadcast = (broadcast: IBroadcast[]) => {
       ...item,
       schedules: {
         ...item.schedules,
-        start_at: time, // Добавляем start_at внутрь schedules
+        start_at: time,
       },
     }
   })

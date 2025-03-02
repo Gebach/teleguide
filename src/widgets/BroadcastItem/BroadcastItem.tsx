@@ -1,26 +1,26 @@
 import { useEffect, useState } from 'react'
+import { observer } from 'mobx-react-lite'
 import channelsStore from '../../shared/store/ChannelsStore'
 import { IBroadcast } from '../../shared/types/types'
-import { observer } from 'mobx-react-lite'
 
 interface BroadcastItemProps {
   item: IBroadcast
   isLive?: boolean
-  date: Date
+  requiredDate: Date
   classname?: string
 }
 
-export const BroadcastItem = observer(({ item, isLive, date = new Date(), classname }: BroadcastItemProps) => {
+export const BroadcastItem = observer(({ item, isLive, requiredDate = new Date(), classname }: BroadcastItemProps) => {
   const { channels, getSelectedChannelSlug } = channelsStore
   const [isNotAllowed, setIsNotAllowed] = useState<boolean>(true)
+  const [currentDate, setCurrentDate] = useState<Date>(requiredDate)
   const rightItemData = new Date(item.schedules.timestamp * 1000)
 
   useEffect(() => {
     setIsNotAllowed(rightItemData > dateNow && !isLive)
-  }, [date])
+    setCurrentDate(requiredDate)
+  }, [requiredDate, getSelectedChannelSlug()])
 
-  // const currentDate = selectedDate
-  const currentDate = date
   const dateNow = new Date()
   const itemDate = rightItemData
 
@@ -42,11 +42,11 @@ export const BroadcastItem = observer(({ item, isLive, date = new Date(), classn
       </div>
 
       <div className="broadcast-list__item__info flex flex-col gap-2">
-        <div className="info__header flex items-center gap-6">
+        <div className="info__header flex items-center gap-4">
           {item.schedules.start_at && (
             <p className="info__start-time text-xs text-gray-400">{item.schedules.start_at.toLocaleString()}</p>
           )}
-          {isLive && <p className="bg-orange-500 text-white block rounded-2xl px-2 py-1">В эфире</p>}
+          {isLive && <p className="bg-orange-500 text-white block rounded-2xl px-2 py-1 text-sm">В эфире</p>}
         </div>
         <p className="info__title text-sm font-bold">{item.title}</p>
         <p className="info__age text-xs text-gray-400 font-extralight">

@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { Spin } from 'antd'
+import { ConfigProvider, Spin } from 'antd'
 import { LoadingOutlined } from '@ant-design/icons'
 import { observer } from 'mobx-react-lite'
 import channelsStore from './shared/store/ChannelsStore'
@@ -13,8 +13,6 @@ const App = observer(() => {
 
   const { getChannels, broadcast, isChannelsLoading } = channelsStore
 
-  console.log(selectedDate)
-
   useEffect(() => {
     getChannels()
   }, [])
@@ -22,15 +20,27 @@ const App = observer(() => {
   return isChannelsLoading ? (
     <Spin indicator={<LoadingOutlined style={{ fontSize: 48 }} spin />} />
   ) : (
-    <Container classname="max-w-xl m-auto max-h-screen h-full py-12 relative mt-20">
-      <div className="fixed top-0 left-0 w-full bg-white z-10 pt-6">
-        <div className="max-w-xl w-full m-auto">
-          <ChannelSelect />
-          <TabsComponent onChangeAction={setSelectedDate} items={broadcast} />
+    <ConfigProvider
+      theme={{
+        components: {
+          Tabs: {
+            itemActiveColor: '#f97316',
+            inkBarColor: '#f97316',
+            itemSelectedColor: '#f97316',
+          },
+        },
+      }}
+    >
+      <Container classname="max-w-xl m-auto max-h-screen h-full py-12 relative mt-20">
+        <div className="fixed top-0 left-0 w-full bg-white z-10 pt-6">
+          <div className="max-w-xl w-full m-auto">
+            <ChannelSelect />
+            <TabsComponent onChangeAction={setSelectedDate} items={broadcast} />
+          </div>
         </div>
-      </div>
-      <BroadcastList selectedDate={selectedDate} items={broadcast} />
-    </Container>
+        <BroadcastList selectedDate={selectedDate} items={broadcast} />
+      </Container>
+    </ConfigProvider>
   )
 })
 export default App

@@ -7,7 +7,6 @@ import { IBroadcast } from '../../shared/types/types'
 import BroadcastItem from '../BroadcastItem/BroadcastItem'
 import isProgramLive from '../../features/isPorgramLive'
 import scrollTo from '../../features/scrollTo'
-import sameDates from '../../features/sameDates'
 import getFullDate from '../../features/getFullDate'
 
 interface BroadcastListProps {
@@ -31,14 +30,12 @@ const BroadcastList = observer(({ items, selectedDate = new Date() }: BroadcastL
   ) : (
     <div className="broadcast-list flex flex-col gap-2">
       {items.map((item, index) => {
-        console.log(getFullDate(selectedDate), getFullDate(new Date()))
         if (getFullDate(selectedDate) === getFullDate(new Date())) {
           isLive = isProgramLive(item.schedules.start_at, items[index + 1]?.schedules.start_at)
         }
         return (
           <BroadcastItem
-            classname={sameDates(new Date(item.schedules.timestamp * 1000), selectedDate) ? '' : 'hidden'}
-            date={selectedDate}
+            requiredDate={selectedDate}
             key={`${item.id}-${item.schedules.timestamp}`}
             item={item}
             isLive={isLive}
