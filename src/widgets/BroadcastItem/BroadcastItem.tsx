@@ -44,7 +44,7 @@ export const BroadcastItem = observer(({ item, isLive, requiredDate = new Date()
       <div className="broadcast-list__item__info flex flex-col gap-2">
         <div className="info__header flex items-center gap-4">
           {item.schedules.start_at && (
-            <p className="info__start-time text-xs text-gray-400">{item.schedules.start_at.toLocaleString()}</p>
+            <p className="info__start-time text-xs text-gray-400">{item.schedules.start_at}</p>
           )}
           {isLive && <p className="bg-orange-500 text-white block rounded-2xl px-2 py-1 text-sm">В эфире</p>}
         </div>

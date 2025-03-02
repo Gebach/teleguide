@@ -1,20 +1,18 @@
-interface isProgramLive {
-  programTime: string
-  nextProgramTime: string
+interface Program {
+  schedules: {
+    timestamp: number
+    duration: number
+  }
 }
 
-export default function isProgramLive(programTime: string, nextProgramTime: string) {
+export default function isProgramLive(currentProgram: Program, nextProgram?: Program): boolean {
   const now = new Date()
-  const [currentHours, currentMinutes] = [now.getHours(), now.getMinutes()]
+  const startDate = new Date(currentProgram.schedules.timestamp * 1000)
+  const endDate = new Date(startDate.getTime() + currentProgram.schedules.duration * 1000)
 
-  const [progHours, progMins] = programTime.split(':').map(Number)
-  const progStart = progHours * 60 + progMins
+  const nextStartDate = nextProgram ? new Date(nextProgram.schedules.timestamp * 1000) : null
 
-  const nextStart = nextProgramTime ? nextProgramTime.split(':').reduce((h, m) => +h * 60 + +m, 0) : 23 * 60 + 59
+  const effectiveEndDate = nextStartDate ? new Date(Math.min(endDate.getTime(), nextStartDate.getTime())) : endDate
 
-  const currentTotal = currentHours * 60 + currentMinutes
-
-  console.log(currentTotal, nextStart, nextProgramTime)
-
-  return currentTotal >= progStart && currentTotal < nextStart
+  return now >= startDate && now < effectiveEndDate
 }

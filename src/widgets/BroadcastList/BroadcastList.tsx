@@ -30,9 +30,8 @@ const BroadcastList = observer(({ items, selectedDate = new Date() }: BroadcastL
   ) : (
     <div className="broadcast-list flex flex-col gap-2">
       {items.map((item, index) => {
-        if (getFullDate(selectedDate) === getFullDate(new Date())) {
-          isLive = isProgramLive(item.schedules.start_at, items[index + 1]?.schedules.start_at)
-        }
+        isLive = isProgramLive(item, items[index + 1])
+
         return (
           <BroadcastItem
             requiredDate={selectedDate}
